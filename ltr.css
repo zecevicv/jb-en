@@ -140,4 +140,8 @@
     transition: right 500ms;
     will-change: right;
   }
+
+  .main-menu-container .top {
+    flex-direction: row;
+  }
 }
