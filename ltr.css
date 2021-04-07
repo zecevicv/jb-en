@@ -343,13 +343,9 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   transform: translate(100%);
 }
 
-#add-to-cart-fixed .container .cart-top {
-}
-
 #add-to-cart-fixed .container .cart-top .close-cart-fixed {
-  margin-left: 3.28125rem;
-  margin-right: auto;
   flex-direction: row-reverse;
+  width: 100%;
 }
 
 @media (max-width: 1023.98px) {
