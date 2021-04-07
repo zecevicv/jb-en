@@ -14,3 +14,11 @@
 .underline-anim::after {
   transform: translateX(-102%);
 }
+
+/* #Magazine Page
+================================================== */
+.blog-content .container {
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
