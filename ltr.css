@@ -416,3 +416,8 @@ ol[checkout-menu] li:last-of-type {
   left: 9.0625rem;
   right: auto;
 }
+
+.navigation-container .container {
+  margin-left: 9.0625rem;
+  margin-right: 0;
+}
