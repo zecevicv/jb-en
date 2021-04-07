@@ -392,3 +392,10 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
     margin: 0 auto;
   }
 }
+
+/* #Checkout
+================================================== */
+ol[checkout-menu] li:last-of-type {
+  right: auto;
+  left: 0;
+}
