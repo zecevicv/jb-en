@@ -445,11 +445,6 @@ ol[checkout-menu] li:last-of-type {
     margin-left: 0;
   }
 
-  .category-content .container .category-filters .category-filters-title-mob span {
-    margin-right: 0;
-    margin-left: 0.5rem;
-  }
-
   .category-content .container .category-filters .category-filters-title-mob {
     flex-direction: row-reverse;
   }
