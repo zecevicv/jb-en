@@ -3,6 +3,12 @@
 .link img {
   margin-right: 0;
   margin-left: .5vw;
+  transform: rotate(180deg);
+}
+
+.link:hover img {
+  -webkit-transform: translateX(0.35vw);
+  transform: translateX(0.35vw);
 }
 
 .underline-anim::after {
