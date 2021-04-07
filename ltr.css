@@ -253,7 +253,7 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   }
 }
 
-/* #Edit Account
+/* #Account Edit
 ================================================== */
 .personal-update-details .personal-update-details-fields {
   margin-left: 21.77083%;
@@ -309,4 +309,16 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
     margin-left: 0;
     margin-right: 6rem;
   }
+}
+
+/* #Account Edit Address
+================================================== */
+.woocommerce-edit-address .jb-account {
+  margin-left: 21rem;
+  margin-right: 0;
+}
+
+.jb-account {
+  margin-left: 0;
+  margin-right: 17.03125rem;
 }
