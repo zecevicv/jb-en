@@ -427,7 +427,21 @@ ol[checkout-menu] li:last-of-type {
   margin-left: auto;
 }
 
-.category-content .container .category-data-item span, .category-content .container .category-clear-sort span, .category-content .container .facetwp-selection-value span {
+.category-content .container .category-data-item span, 
+.category-content .container .category-clear-sort span, 
+.category-content .container .facetwp-selection-value span {
   margin-left: 0;
   margin-right: 0.5rem;
+}
+
+.category-content .container .category-data-item, 
+.category-content .container .category-clear-sort, 
+.category-content .container .facetwp-selection-value {
+  margin-left: 0.625rem;
+}
+
+@media (max-width: 1023.98px) {
+  .category-content .container .category-sort {
+    margin-left: 0;
+  }
 }
