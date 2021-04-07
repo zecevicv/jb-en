@@ -381,3 +381,8 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   padding-left: initial;
   margin-left: initial;
 }
+
+#add-to-cart-fixed .container .cart-products-container .cart-product .cart-product-bottom .amount div.display-text {
+  padding-right: 0.2rem;
+  padding-left: 0;
+}
