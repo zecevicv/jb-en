@@ -351,6 +351,12 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   flex-direction: row-reverse;
 }
 
+#add-to-cart-fixed .container .cart-products-container .cart-product {
+  margin-left: 0;
+  margin-right: auto;
+  direction: ltr;
+}
+
 @media (max-width: 1023.98px) {
 
 }
