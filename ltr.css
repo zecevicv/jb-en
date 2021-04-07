@@ -437,7 +437,6 @@ ol[checkout-menu] li:last-of-type {
 .category-content .container .category-data-item, 
 .category-content .container .category-clear-sort, 
 .category-content .container .facetwp-selection-value {
-  margin-left: auto;
 }
 
 @media (max-width: 1023.98px) {
