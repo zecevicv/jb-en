@@ -491,3 +491,8 @@ ol[checkout-menu] li:last-of-type {
   margin-left: 0;
   margin-right: 0.26042rem;
 }
+
+.product-view-more .container .product-view-more-headers .product-view-more-header:last-child {
+  margin-left: 3.90625rem;
+  margin-right: 0;
+}
