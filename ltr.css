@@ -122,8 +122,12 @@
 /* #Header
 ================================================== */
 
-/* #Hamburger Menu
+/* #Hamburger Menu/Mega Menu
 ================================================== */
+.main-menu {
+  direction: ltr;
+}
+
 @media (max-width: 1023.98px) {
   .main-menu-container.on {
     left: auto;
