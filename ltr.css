@@ -50,6 +50,12 @@
   }
 }
 
+/* #Magazine Post Page
+================================================== */
+.article-share {
+  flex-direction: row-reverse;
+}
+
 /* #Newsletter
 ================================================== */
 .newsletter .container {
