@@ -61,6 +61,10 @@
     margin-left: auto;
     margin-right: 0;
   }
+
+  .more-posts .container .swiper-container .post-info {
+    text-align: left;
+  }
 }
 
 /* #Newsletter
