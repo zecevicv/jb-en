@@ -409,3 +409,10 @@ ol[checkout-menu] li:last-of-type {
   right: auto;
   left: 0;
 }
+
+/* #Shop
+================================================== */
+.category-header .container .category-header-text {
+  left: 9.0625rem;
+  right: auto;
+}
