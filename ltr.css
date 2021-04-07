@@ -22,6 +22,11 @@
   padding-right: 0.8rem;
 }
 
+.radio_cb .fake_cb {
+  margin-left: 0;
+  margin-right: 0.71rem;
+}
+
 @media (max-width: 1023.98px) {
   .link img {
     height: 2.9vw;
@@ -36,6 +41,11 @@
   .jb-black-btn span {
     padding-left: 0;
     padding-right: 3rem;
+  }
+
+  #login-or-subscribe .radio_cb .fake_cb {
+    margin-right: 2rem;
+    margin-left: 0;
   }
 }
 
