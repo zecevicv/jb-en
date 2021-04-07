@@ -33,3 +33,7 @@
   right: auto;
   left: 0;
 }
+
+.newsletter .container form button img {
+  transform: rotate(180deg);
+}
