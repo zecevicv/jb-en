@@ -449,4 +449,8 @@ ol[checkout-menu] li:last-of-type {
     margin-right: 0;
     margin-left: 0.5rem;
   }
+
+  .category-content .container .category-filters .category-filters-title-mob {
+    flex-direction: row-reverse;
+  }
 }
