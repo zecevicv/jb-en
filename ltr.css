@@ -56,6 +56,13 @@
   flex-direction: row-reverse;
 }
 
+@media (max-width: 1023.98px) {
+  .more-posts .container {
+    margin-left: auto;
+    margin-right: 0;
+  }
+}
+
 /* #Newsletter
 ================================================== */
 .newsletter .container {
