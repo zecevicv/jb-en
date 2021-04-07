@@ -466,3 +466,7 @@ ol[checkout-menu] li:last-of-type {
 .product-add-to-cart .container {
   flex-direction: row-reverse;
 }
+
+.product-add-to-cart .container .add-to-cart .product-price > span {
+  margin-left: 0;
+}
