@@ -97,3 +97,13 @@
   -webkit-transform: translate(-100%);
   transform: translate(-100%);
 }
+
+@media (max-width: 1023.98px) {
+  .footer .container .footer-top .footer-nav .footer-nav-group:not(:last-child) {
+    margin: 0;
+  }
+
+  .footer .container .footer-bottom p:not(:last-child) {
+    margin: 0;
+  }
+}
