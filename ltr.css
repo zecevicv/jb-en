@@ -15,6 +15,13 @@
   transform: translateX(-102%);
 }
 
+@media (max-width: 1023.98px) {
+  .link img {
+    height: 2.9vw;
+    margin-left: 2vw;
+  }
+}
+
 /* #Magazine Page
 ================================================== */
 .blog-content .container {
