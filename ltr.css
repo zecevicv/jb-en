@@ -532,3 +532,10 @@ ol[checkout-menu] li:last-of-type {
     flex-direction: column-reverse;
   }
 }
+
+/* #Favorites
+================================================== */
+.favorites-container .favorites-share .h2 {
+  margin-left: 7.91667rem;
+  margin-right: 0;
+}
