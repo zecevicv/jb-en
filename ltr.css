@@ -28,3 +28,8 @@
 .newsletter .container {
   flex-direction: row-reverse;
 }
+
+.newsletter .container form label {
+  right: auto;
+  left: 0;
+}
