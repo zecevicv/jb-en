@@ -32,6 +32,11 @@
     -webkit-transform: translateX(0) rotate(180deg);
     transform: translateX(0) rotate(180deg);
   }
+
+  .jb-black-btn span {
+    padding-left: 0;
+    padding-right: 3rem;
+  }
 }
 
 /* #Magazine Page
