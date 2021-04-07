@@ -322,3 +322,9 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   margin-left: 0;
   margin-right: 17.03125rem;
 }
+
+@media (max-width: 1023.98px) {
+  .woocommerce-edit-address .jb-account {
+    margin: 0 auto;
+  }
+}
