@@ -481,3 +481,8 @@ ol[checkout-menu] li:last-of-type {
   margin-right: 0;
   margin-left: auto;
 }
+
+.product-add-to-cart .container .select_menu .display-text {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
