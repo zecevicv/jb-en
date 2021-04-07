@@ -37,3 +37,15 @@
 .newsletter .container form button img {
   transform: rotate(180deg);
 }
+
+/* #Footer
+================================================== */
+.footer .container .footer-top .footer-nav .footer-nav-group:not(:last-child) {
+  margin-left: 0;
+  margin-right: 6.3vw;
+}
+
+.footer .container .footer-bottom p:not(:last-child) {
+  margin-left: 0;
+  margin-right: 3.3vw;
+}
