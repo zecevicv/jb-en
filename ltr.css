@@ -446,6 +446,11 @@ ol[checkout-menu] li:last-of-type {
   margin-right: 2rem;
 }
 
+.category-content .container .category-clear-sort {
+  margin-left: auto;
+  margin-right: 0;
+}
+
 @media (max-width: 1023.98px) {
   .category-content .container .category-sort {
     margin-left: 0;
