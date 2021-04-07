@@ -20,6 +20,11 @@
     height: 2.9vw;
     margin-left: 2vw;
   }
+
+  .link:hover img {
+    -webkit-transform: translateX(0) rotate(180deg);
+    transform: translateX(0) rotate(180deg);
+  }
 }
 
 /* #Magazine Page
