@@ -4,3 +4,7 @@
   margin-right: 0;
   margin-left: .5vw;
 }
+
+.underline-anim::after {
+  transform: translateX(-102%);
+}
