@@ -496,3 +496,8 @@ ol[checkout-menu] li:last-of-type {
   margin-left: 3.90625rem;
   margin-right: 0;
 }
+
+.product-info > .container .product-info-img {
+  margin-left: 4.73958rem;
+  margin-right: 0;
+}
