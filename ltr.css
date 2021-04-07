@@ -22,3 +22,9 @@
   -ms-flex-direction: row;
   flex-direction: row;
 }
+
+/* #Newsletter
+================================================== */
+.newsletter .container {
+  flex-direction: row-reverse;
+}
