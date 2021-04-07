@@ -112,4 +112,28 @@
     margin-right: 0;
     margin-left: auto;
   }
+
+  .footer .container .footer-top .footer-logo .footer-social a:not(:last-child) {
+    margin-left: 0;
+    margin-right: 6.7vw;
+  }
+}
+
+/* #Header
+================================================== */
+
+/* #Hamburger Menu
+================================================== */
+@media (max-width: 1023.98px) {
+  .main-menu-container.on {
+    left: auto;
+    right: 0;
+  }
+
+  .main-menu-container {
+    left: auto;
+    right: 100%;
+    transition: right 500ms;
+    will-change: right;
+  }
 }
