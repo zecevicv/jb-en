@@ -162,3 +162,10 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
     transition: right 500ms;
   }
 }
+
+/* #Search (Part Of The Header)
+================================================== */
+#search-window #close_search {
+  left: auto;
+  right: 2rem;
+}
