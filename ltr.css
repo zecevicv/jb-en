@@ -342,3 +342,20 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   right: 0;
   transform: translate(100%);
 }
+
+#add-to-cart-fixed .container .cart-top {
+}
+
+#add-to-cart-fixed .container .cart-top .close-cart-fixed {
+  margin-left: 3.28125rem;
+  margin-right: auto;
+}
+
+#add-to-cart-fixed .container .cart-top .close-cart-fixed .close-cart-fixed-x {
+  margin-left: 0;
+  margin-right: 0.51667rem;
+}
+
+@media (max-width: 1023.98px) {
+
+}
