@@ -563,4 +563,12 @@ ol[checkout-menu] li:last-of-type {
   .favorites-container .favorites-share ul {
     margin-right: 4rem;
   }
+
+  .favorites-container .favorites-share ul li:last-of-type {
+    margin-left: 3.17867rem;
+  }
+
+  .favorites-container .favorites-share ul::before {
+    margin-right: 0.98rem;
+  }
 }
