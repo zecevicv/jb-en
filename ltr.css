@@ -264,4 +264,8 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   .personal-update-details .personal-update-details-fields {
     margin: 0 auto;
   }
+
+  .personal-header .h2, .personal-header .p1 {
+    text-align: left;
+  }
 }
