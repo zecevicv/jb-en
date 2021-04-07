@@ -27,6 +27,11 @@
   margin-right: 0.71rem;
 }
 
+.jb-black-btn img, .jb-black-btn svg {
+  margin-left: 0.5rem;
+  margin-right: 0;
+}
+
 @media (max-width: 1023.98px) {
   .link img {
     height: 2.9vw;
@@ -46,6 +51,11 @@
   #login-or-subscribe .radio_cb .fake_cb {
     margin-right: 2rem;
     margin-left: 0;
+  }
+
+  .jb-black-btn img, .jb-black-btn svg {
+    margin-left: 1.7rem;
+    margin-right: 0;
   }
 }
 
