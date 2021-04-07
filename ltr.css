@@ -15,6 +15,13 @@
   transform: translateX(-102%);
 }
 
+.jb-black-btn span {
+  background-position: right;
+  background-size: 6%;
+  padding-left: 0;
+  padding-right: 0.8rem;
+}
+
 @media (max-width: 1023.98px) {
   .link img {
     height: 2.9vw;
