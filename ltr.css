@@ -122,7 +122,7 @@
 /* #Header
 ================================================== */
 
-/* #Hamburger Menu/Mega Menu
+/* #Hamburger Menu Mobile
 ================================================== */
 .main-menu {
   direction: ltr;
@@ -131,6 +131,12 @@
 li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   left: auto;
   right: 0;
+}
+
+.main-menu > li li.sub-menu-title {
+  transition: 500ms right;
+  left: auto;
+  right: 100%;
 }
 
 @media (max-width: 1023.98px) {
