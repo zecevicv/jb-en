@@ -517,6 +517,16 @@ ol[checkout-menu] li:last-of-type {
   margin-right: 0.50313rem;
 }
 
+.product-info > .container .product-info-content .product-info-content-headers .product-info-content-data-mob-container .product-info-content-data-mob.additional-data .data div:first-child {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.product-info > .container .product-info-content .product-info-content-headers .product-info-content-data-mob-container .product-info-content-data-mob.additional-data .data div:last-child {
+  margin-right: 0;
+  margin-left: auto;
+}
+
 @media (max-width: 1023.98px) {
   .product-add-to-cart .container {
     flex-direction: column-reverse;
