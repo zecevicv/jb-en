@@ -357,6 +357,13 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   direction: ltr;
 }
 
+#add-to-cart-fixed .container .cart-products-container {
+  padding-left: 1.64062rem;
+  margin-left: 1.64062rem;
+  padding-right: 0;
+  margin-right: 0;
+}
+
 @media (max-width: 1023.98px) {
 
 }
