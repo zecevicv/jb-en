@@ -437,11 +437,16 @@ ol[checkout-menu] li:last-of-type {
 .category-content .container .category-data-item, 
 .category-content .container .category-clear-sort, 
 .category-content .container .facetwp-selection-value {
-  margin-left: 0.625rem;
+  margin-left: auto;
 }
 
 @media (max-width: 1023.98px) {
   .category-content .container .category-sort {
     margin-left: 0;
+  }
+
+  .category-content .container .category-filters .category-filters-title-mob span {
+    margin-right: 0;
+    margin-left: 0.5rem;
   }
 }
