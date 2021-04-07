@@ -104,6 +104,7 @@
   }
 
   .footer .container .footer-bottom p:not(:last-child) {
-    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
