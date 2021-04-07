@@ -471,3 +471,13 @@ ol[checkout-menu] li:last-of-type {
   margin-left: 0;
   margin-right: 1.04167rem;
 }
+
+.product-add-to-cart .container .add-to-cart form .product-order-details .label {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.product-add-to-cart .container .add-to-cart form .product-order-details .select {
+  margin-right: 0;
+  margin-left: auto;
+}
