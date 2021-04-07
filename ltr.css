@@ -376,3 +376,8 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   right: auto;
   transform: none!important;
 }
+
+#add-to-cart-fixed.not-fixed > .container .cart-products-container {
+  padding-left: initial;
+  margin-left: initial;
+}
