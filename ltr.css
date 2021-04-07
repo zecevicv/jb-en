@@ -544,3 +544,13 @@ ol[checkout-menu] li:last-of-type {
   margin-left: auto;
   margin-right: 9.40104rem;
 }
+
+.favorites-container .favorites-share ul::before {
+  margin-left: 0;
+  margin-right: 0.62135rem;
+}
+
+.favorites-container .favorites-share ul li:last-of-type {
+  margin-left: 1.36198rem;
+  margin-right: 0;
+}
