@@ -107,4 +107,9 @@
     margin-left: 0;
     margin-right: 0;
   }
+
+  .footer .container .footer-top .footer-nav .footer-nav-group .footer-nav-links .title img {
+    margin-right: 0;
+    margin-left: auto;
+  }
 }
