@@ -469,4 +469,5 @@ ol[checkout-menu] li:last-of-type {
 
 .product-add-to-cart .container .add-to-cart .product-price > span {
   margin-left: 0;
+  margin-right: 1.04167rem;
 }
