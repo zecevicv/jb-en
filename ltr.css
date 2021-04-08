@@ -572,3 +572,11 @@ ol[checkout-menu] li:last-of-type {
     margin-right: 0.98rem;
   }
 }
+
+/* #Terms Of Use
+================================================== */
+@media (max-width: 1023.98px) {
+  .terms-of-use-content .container .h2 {
+    text-align: left;
+  }
+}
