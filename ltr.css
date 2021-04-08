@@ -608,5 +608,5 @@ ol[checkout-menu] li:last-of-type {
 
 .about-content2.about-content2-ver1 .container .about-images-overlay picture:last-child {
   left: auto;
-  right: 0;
+  right: -8vw;
 }
