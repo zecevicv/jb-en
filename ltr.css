@@ -713,3 +713,10 @@ ol[checkout-menu] li:last-of-type {
   left: 9.0625rem;
   right: 0;
 }
+
+@media (max-width: 1023.98px) {
+  .repair-header .container .repair-header-text {
+    right: initial;
+    transform: initial;
+  }
+}
