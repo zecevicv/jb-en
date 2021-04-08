@@ -583,6 +583,11 @@ ol[checkout-menu] li:last-of-type {
 
 /* #About Page
 ================================================== */
+.about-content2 {
+  max-width: 100%;
+  overflow: hidden;
+}
+
 .about-content2 .container .about-images-overlay {
   left: auto;
   right: 0;
