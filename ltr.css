@@ -638,3 +638,8 @@ ol[checkout-menu] li:last-of-type {
   left: auto;
   right: 0;
 }
+
+.about-content2.about-content2-ver3 .container .about-images-overlay > div:last-child {
+  left: -30rem;
+  right: auto;
+}
