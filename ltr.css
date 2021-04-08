@@ -773,3 +773,9 @@ ol[checkout-menu] li:last-of-type {
   margin-left: 17.03125rem;
   margin-right: 0;
 }
+
+@media (max-width: 1023.98px) {
+  .jb-account {
+    margin: 10rem auto 0;
+  }
+}
