@@ -677,4 +677,8 @@ ol[checkout-menu] li:last-of-type {
     left: 50%;
     transform: translate(-50%, 0);
   }
+
+  .about-content2.about-content2-ver1 .container .about-images-overlay picture:last-child {
+    left: 2rem;
+  }
 }
