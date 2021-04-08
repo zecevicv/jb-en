@@ -628,3 +628,8 @@ ol[checkout-menu] li:last-of-type {
 .about-content2.about-content2-ver2 .container .text2 {
   direction: ltr;
 }
+
+.about-content2.about-content2-ver2 .container .about-images-overlay picture:last-child {
+  left: 9.01042rem;
+  right: auto;
+}
