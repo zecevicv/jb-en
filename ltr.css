@@ -662,4 +662,8 @@ ol[checkout-menu] li:last-of-type {
     margin-left: 3.46667rem;
     margin-right: 0;
   }
+
+  .about-content2 .container .text-container .text1 {
+    margin: auto;
+  }
 }
