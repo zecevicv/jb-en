@@ -617,6 +617,10 @@ ol[checkout-menu] li:last-of-type {
 }
 
 .about-content2.about-content2-ver2 .container .about-images-overlay {
-  left: -1vw;
+  left: -4vw;
   right: auto;
+}
+
+.about-content2.about-content2-ver2 .container .about-images-overlay {
+  width: 64.86458rem;
 }
