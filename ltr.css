@@ -718,6 +718,10 @@ ol[checkout-menu] li:last-of-type {
   flex-direction: row-reverse;
 }
 
+.repair-types .container > div:nth-of-type(2n) {
+  flex-direction: row;
+}
+
 @media (max-width: 1023.98px) {
   .repair-header .container .repair-header-text {
     right: initial;
