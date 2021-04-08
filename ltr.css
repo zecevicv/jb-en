@@ -645,6 +645,6 @@ ol[checkout-menu] li:last-of-type {
 }
 
 .about-content2.about-content2-ver3 .container .about-images-overlay {
-  left: 0;
+  left: auto;
   right: 6rem;
 }
