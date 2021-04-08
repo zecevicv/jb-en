@@ -762,6 +762,7 @@ ol[checkout-menu] li:last-of-type {
   margin-right: 0.50313rem;
 }
 
-.contact-shops .container .contact-shop .contact-img button {
+.contact-shops .container .contact-shop .contact-img button,
+.contact-shops .container .contact-data-container .contact-data-btns button {
   flex-direction: row-reverse;
 }
