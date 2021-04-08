@@ -722,6 +722,11 @@ ol[checkout-menu] li:last-of-type {
   flex-direction: row;
 }
 
+.repair-types .container > div .repair-type-text .lab-services-container .lab-services .p2 {
+  margin-left: 0;
+  margin-right: 1.04167rem;
+}
+
 @media (max-width: 1023.98px) {
   .repair-header .container .repair-header-text {
     right: initial;
