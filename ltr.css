@@ -610,3 +610,8 @@ ol[checkout-menu] li:last-of-type {
   left: auto;
   right: -8vw;
 }
+
+.about-content2.about-content2-ver2 .container .text-container {
+  direction: ltr;
+  margin-left: auto;
+}
