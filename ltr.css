@@ -580,3 +580,10 @@ ol[checkout-menu] li:last-of-type {
     text-align: left;
   }
 }
+
+/* #About Page
+================================================== */
+.about-content2 .container .about-images-overlay {
+  left: auto;
+  right: 0;
+}
