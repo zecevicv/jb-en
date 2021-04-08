@@ -719,4 +719,9 @@ ol[checkout-menu] li:last-of-type {
     right: initial;
     transform: initial;
   }
+
+  .repair-header .container .page-navigation .container .navigation {
+    margin-left: 4.13333rem;
+    margin-right: 0;
+  }
 }
