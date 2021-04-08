@@ -706,3 +706,10 @@ ol[checkout-menu] li:last-of-type {
     transform: translate(-50%, 0);
   }
 }
+
+/* #Customer Service
+================================================== */
+.repair-header .container .repair-header-text {
+  left: 9.0625rem;
+  right: 0;
+}
