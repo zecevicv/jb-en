@@ -699,4 +699,10 @@ ol[checkout-menu] li:last-of-type {
     left: 50%;
     right: auto;
   }
+
+  .about-content2.about-content2-ver3 .container .about-images-overlay picture:nth-child(2) {
+    right: auto;
+    left: 50%;
+    transform: translate(-50%, 0);
+  }
 }
