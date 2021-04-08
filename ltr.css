@@ -596,3 +596,8 @@ ol[checkout-menu] li:last-of-type {
 .about-content2 .container .text-container .text1 {
   margin-left: 6vw;
 }
+
+.about-content2 .container .text2 {
+  left: auto;
+  right: 4rem;
+}
