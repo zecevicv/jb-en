@@ -666,4 +666,10 @@ ol[checkout-menu] li:last-of-type {
   .about-content2 .container .text-container .text1 {
     margin: auto;
   }
+
+  .about-content2 .container .about-images-overlay {
+    top: initial;
+    left: 50%;
+    transform: translate(-50%, 0);
+  }
 }
