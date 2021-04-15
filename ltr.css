@@ -531,6 +531,11 @@ ol[checkout-menu] li:last-of-type {
   .product-add-to-cart .container {
     flex-direction: column-reverse;
   }
+
+  .product-info > .container .product-info-content .product-info-content-headers .product-info-content-header.h3::after {
+    left: auto;
+    right: 0;
+  }
 }
 
 /* #Favorites
