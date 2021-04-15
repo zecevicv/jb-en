@@ -848,3 +848,9 @@ ol[checkout-menu] li:last-of-type {
   margin-left: 0;
   margin-right: 0.625rem;
 }
+
+@media (max-width: 1023.98px) {
+  #product-popup, #leave-popup, #insta-popup {
+    flex-direction: column;
+  }
+}
