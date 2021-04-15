@@ -874,3 +874,7 @@ ol[checkout-menu] li:last-of-type {
   margin-left: 0;
   margin-right: 2.1875rem;
 }
+
+.collection-slider2 .container {
+  flex-direction: row-reverse;
+}
