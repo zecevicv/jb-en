@@ -779,3 +779,10 @@ ol[checkout-menu] li:last-of-type {
     margin: 10rem auto 0;
   }
 }
+
+/* #Homepage
+================================================== */
+.home-header .swiper-button-next {
+  right: 51%;
+  left: auto;
+}
