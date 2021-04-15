@@ -838,3 +838,8 @@ ol[checkout-menu] li:last-of-type {
 #insta-popup .insta-cart .cart-products-container .cart-product {
   direction: ltr;
 }
+
+#insta-popup .insta-cart .cart-products-container .cart-product .cart-product-content .h5 span {
+  margin-left: 0;
+  margin-right: 0.80729rem;
+}
