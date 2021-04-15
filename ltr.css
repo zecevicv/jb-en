@@ -783,6 +783,9 @@ ol[checkout-menu] li:last-of-type {
 /* #Homepage
 ================================================== */
 .home-header .swiper-button-next {
-  right: 51%;
+  left: auto;
+}
+
+.home-header .swiper-button-prev {
   left: auto;
 }
