@@ -804,6 +804,10 @@ ol[checkout-menu] li:last-of-type {
   padding-right: 0;
 }
 
+.home-network .container {
+  flex-direction: row-reverse;
+}
+
 @media (max-width: 1023.98px) {
   .home-features .container .home-feature img {
     margin-left: 0;
