@@ -853,4 +853,8 @@ ol[checkout-menu] li:last-of-type {
   #product-popup, #leave-popup, #insta-popup {
     flex-direction: column;
   }
+
+  #insta-popup .insta-cart .cart-products-container {
+    margin-right: 0;
+  }
 }
