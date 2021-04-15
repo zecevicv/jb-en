@@ -207,6 +207,11 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
     left: auto;
     transition: right 500ms;
   }
+
+  .main-menu > li > .sub-menu > li::after {
+    left: auto;
+    right: 0;
+  }
 }
 
 /* #Search (Part Of The Header)
