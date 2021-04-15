@@ -834,3 +834,7 @@ ol[checkout-menu] li:last-of-type {
 #insta-popup {
   flex-direction: row-reverse;
 }
+
+#insta-popup .insta-cart .cart-products-container .cart-product {
+  direction: ltr;
+}
