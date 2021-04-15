@@ -799,6 +799,11 @@ ol[checkout-menu] li:last-of-type {
   flex-direction: row-reverse;
 }
 
+.home-videos .container {
+  padding-left: 3.5%;
+  padding-right: 0;
+}
+
 @media (max-width: 1023.98px) {
   .home-features .container .home-feature img {
     margin-left: 0;
