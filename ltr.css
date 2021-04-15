@@ -867,3 +867,10 @@ ol[checkout-menu] li:last-of-type {
     margin-right: 0;
   }
 }
+
+/* #Collection
+================================================== */
+.collection-about .container .img {
+  margin-left: 0;
+  margin-right: 2.1875rem;
+}
