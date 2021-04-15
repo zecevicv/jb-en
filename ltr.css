@@ -892,4 +892,8 @@ ol[checkout-menu] li:last-of-type {
   .collection-slider2 .container {
     flex-direction: column-reverse;
   }
+
+  .story-component .container {
+    flex-direction: column;
+  }
 }
