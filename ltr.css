@@ -882,3 +882,10 @@ ol[checkout-menu] li:last-of-type {
 .story-component .container {
   flex-direction: row-reverse;
 }
+
+@media (max-width: 1023.98px) {
+  .collection-about .container .img {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
