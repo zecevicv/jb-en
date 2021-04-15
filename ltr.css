@@ -789,3 +789,16 @@ ol[checkout-menu] li:last-of-type {
 .home-header .swiper-button-prev {
   left: auto;
 }
+
+.home-features .container .home-feature img {
+  margin-left: 0;
+  margin-right: .85vw;
+}
+
+@media (max-width: 1023.98px) {
+  .home-features .container .home-feature img {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+}
