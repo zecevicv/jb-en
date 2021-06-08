@@ -26,7 +26,3 @@ body.popup2 {
 #form-popup .form-popup-container .form-popup form div:nth-child(2) input {
   width: 100%;
 }
-
-#form-popup .form-popup-container .form-popup form div:first-child {
-  width: 90%;
-}
