@@ -85,6 +85,12 @@ body.popup2 {
   padding-top: 5.5vw;
 }
 
+@media (max-width: 1023.98px) {
+  .home-brands {
+    padding-top: 8.7vw;
+  }
+}
+
 /* Posts */
 .home-posts .container .swiper-container .post-img {
   position: relative;
