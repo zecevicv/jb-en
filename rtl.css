@@ -148,3 +148,19 @@ body.search-panel {
     margin-top: 2vw;
   }
 }
+
+/* #More Posts
+================================================== */
+.more-posts .container .swiper-container .post-img {
+  position: relative;
+  padding-top: 100%;
+}
+
+.more-posts .container .swiper-container .post-img img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
