@@ -69,3 +69,11 @@ body.popup2 {
     margin-bottom: 4vw;
   }
 }
+
+/* #Homepage
+================================================== */
+@media (max-width: 1023.98px) {
+  .home-header #collection-btn {
+    color: white;
+  }
+}
