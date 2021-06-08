@@ -178,3 +178,8 @@ body.search-panel {
   align-items: center;
   justify-content: center;
 }
+
+#add-to-cart-fixed.cart_empty .cart-products-container {
+  display: flex;
+  align-items: center;
+}
