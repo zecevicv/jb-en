@@ -196,3 +196,10 @@ body.search-panel {
 #add-to-cart-fixed #empty-cart img {
   margin-bottom: 1vw;
 }
+
+@media (max-width: 1023.98px) {
+  #add-to-cart-fixed #empaty-cart h3,
+  #add-to-cart-fixed #empty-cart h3 {
+    font-size: 2.9333333333rem;
+  }
+}
