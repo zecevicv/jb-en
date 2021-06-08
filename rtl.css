@@ -202,4 +202,14 @@ body.search-panel {
   #add-to-cart-fixed #empty-cart h3 {
     font-size: 4rem;
   }
+
+  #add-to-cart-fixed #empaty-cart a,
+  #add-to-cart-fixed #empty-cart a {
+    margin-top: 2.66vw;
+  }
+
+  #add-to-cart-fixed #empaty-cart img,
+  #add-to-cart-fixed #empty-cart img {
+    margin-bottom: 2.66vw;
+  }
 }
