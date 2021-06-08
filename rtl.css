@@ -34,3 +34,10 @@ body.popup2 {
 #form-popup .form-popup-container .form-popup form div:nth-child(2) input {
   width: 90%;
 }
+
+@media (max-width: 1023.98px) {
+  #form-popup {
+    height: auto;
+    overflow-y: auto;
+  }
+}
