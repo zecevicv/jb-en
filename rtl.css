@@ -42,6 +42,7 @@ body.popup2 {
 
   #form-popup .form-popup-container {
     overflow: visible;
+    margin-bottom: 5vw;
   }
 
   .overlay-container, .overlay-popup-container {
