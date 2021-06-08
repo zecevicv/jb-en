@@ -191,3 +191,8 @@ body.search-panel {
 #add-to-cart-fixed #empty-cart a {
   margin-top: 1vw;
 }
+
+#add-to-cart-fixed #empaty-cart img,
+#add-to-cart-fixed #empty-cart img {
+  margin-bottom: 1vw;
+}
