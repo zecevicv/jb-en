@@ -136,3 +136,9 @@ body.search-panel {
 .main-menu > li::after {
   display: none;
 }
+
+/* #Magazine
+================================================== */
+.blog-header .container .blog-nav .blog-nav-item h5 a {
+  font-size: 4.5333333333rem;
+}
