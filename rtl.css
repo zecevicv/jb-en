@@ -1,9 +1,12 @@
-/* #Popup
+/* #Body
 ================================================== */
-body.popup2 {
+body.popup2,
+body.search-panel {
   overflow: hidden;
 }
 
+/* #Popup
+================================================== */
 #form-popup .form-popup-container {
   height: auto;
 }
