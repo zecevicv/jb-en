@@ -197,6 +197,10 @@ body.search-panel {
   margin-bottom: 1vw;
 }
 
+html[dir="rtl"] #add-to-cart-fixed #empty-cart {
+  direction: rtl;
+}
+
 @media (max-width: 1023.98px) {
   .overlay-container #add-to-cart-fixed #empaty-cart h3,
   .overlay-container #add-to-cart-fixed #empty-cart h3 {
