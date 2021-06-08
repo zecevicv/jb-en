@@ -23,6 +23,10 @@ body.popup2 {
   border: none;
 }
 
+#form-popup .form-popup-container .form-popup form div:nth-child(2) > div {
+  flex-direction: row;
+}
+
 #form-popup .form-popup-container .form-popup form div:nth-child(2) > div:nth-child(2) {
   justify-content: flex-end;
 }
