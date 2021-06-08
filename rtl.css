@@ -1,5 +1,9 @@
 /* #Popup
 ================================================== */
+body.popup-2 {
+  overflow: hidden;
+}
+
 #form-popup .form-popup-container {
   height: auto;
 }
