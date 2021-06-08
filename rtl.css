@@ -111,3 +111,7 @@ body.popup2 {
 #search-window {
   width: auto;
 }
+
+#search-window #close_search {
+  left: 9rem;
+}
