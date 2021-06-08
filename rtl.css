@@ -197,7 +197,7 @@ body.search-panel {
   margin-bottom: 1vw;
 }
 
-html[dir="rtl"] #add-to-cart-fixed #empty-cart {
+html[dir="rtl"] #add-to-cart-fixed #empaty-cart {
   direction: rtl;
 }
 
