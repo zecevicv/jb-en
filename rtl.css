@@ -187,33 +187,29 @@ body.search-panel {
   margin: 0;
 }
 
-.overlay-container #add-to-cart-fixed #empaty-cart a,
-.overlay-container #add-to-cart-fixed #empty-cart a {
+#add-to-cart-fixed #empaty-cart a,
+#add-to-cart-fixed #empty-cart a {
   margin-top: 1vw;
 }
 
-.overlay-container #add-to-cart-fixed #empaty-cart img,
-.overlay-container #add-to-cart-fixed #empty-cart img {
+#add-to-cart-fixed #empaty-cart img,
+#add-to-cart-fixed #empty-cart img {
   margin-bottom: 1vw;
 }
 
-html[dir="rtl"] #add-to-cart-fixed #empaty-cart {
-  direction: rtl;
-}
-
 @media (max-width: 1023.98px) {
-  .overlay-container #add-to-cart-fixed #empaty-cart h3,
-  .overlay-container #add-to-cart-fixed #empty-cart h3 {
+  #add-to-cart-fixed #empaty-cart h3,
+  #add-to-cart-fixed #empty-cart h3 {
     font-size: 4rem;
   }
 
-  .overlay-container #add-to-cart-fixed #empaty-cart a,
-  .overlay-container #add-to-cart-fixed #empty-cart a {
+  #add-to-cart-fixed #empaty-cart a,
+  #add-to-cart-fixed #empty-cart a {
     margin-top: 2.66vw;
   }
 
-  .overlay-container #add-to-cart-fixed #empaty-cart img,
-  .overlay-container #add-to-cart-fixed #empty-cart img {
+  #add-to-cart-fixed #empaty-cart img,
+  #add-to-cart-fixed #empty-cart img {
     margin-bottom: 2.66vw;
   }
 }
