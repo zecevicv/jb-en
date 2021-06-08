@@ -110,6 +110,7 @@ body.popup2 {
 ================================================== */
 #search-window {
   width: auto;
+  overflow-x: hidden;
 }
 
 #search-window #close_search {
