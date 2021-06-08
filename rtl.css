@@ -57,4 +57,9 @@ body.popup2 {
     font-size: 4.5333333333rem;
     height: 10.4vw;
   }
+
+  #form-popup .form-popup-container .form-popup form div.link-container .link img {
+    height: auto;
+    width: 1.5vw;
+  }
 }
