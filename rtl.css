@@ -49,6 +49,10 @@ body.popup2 {
     height: 100%;
   }
 
+  #form-popup .form-popup-container .form-popup form div.link-container {
+    height: auto;
+  }
+
   #form-popup .form-popup-container .form-popup form div.link-container .link {
     font-size: 4.5333333333rem;
     height: 10.4vw;
