@@ -72,8 +72,15 @@ body.popup2 {
 
 /* #Homepage
 ================================================== */
+
+/* Header */
 @media (max-width: 1023.98px) {
   .home-header #collection-btn {
     color: white;
   }
+}
+
+/* Brands */
+.home-brands {
+  padding-top: 5.5vw;
 }
