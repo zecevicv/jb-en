@@ -139,6 +139,12 @@ body.search-panel {
 
 /* #Magazine
 ================================================== */
-.blog-header .container .blog-nav .blog-nav-item h5 a {
-  font-size: 4.5333333333rem;
+@media (max-width: 1023.98px) {
+  .blog-header .container .blog-nav .blog-nav-item h5 a {
+    font-size: 4.5333333333rem;
+  }
+
+  .blog-header .container .blog-nav {
+    margin-top: 2vw;
+  }
 }
