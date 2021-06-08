@@ -7,3 +7,14 @@
 #form-popup .form-popup-container .form-popup {
   padding: 2vw 0;
 }
+
+#form-popup .form-popup-container {
+  overflow-y: auto;
+}
+
+#form-popup .form-popup-container .form-popup form div.link-container .link {
+  color: white;
+  padding: 0;
+  background-color: transparent;
+  border: none;
+}
