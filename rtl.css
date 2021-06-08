@@ -130,3 +130,9 @@ body.search-panel {
     max-height: calc(100vw - 17rem);
   }
 }
+
+/* #Mobile
+================================================== */
+.main-menu > li::after {
+  display: none;
+}
