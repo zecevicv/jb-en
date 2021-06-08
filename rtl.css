@@ -139,6 +139,10 @@ body.search-panel {
 
 /* #Magazine
 ================================================== */
+.article-content img {
+  width: 100%;
+}
+
 @media (max-width: 1023.98px) {
   .blog-header .container .blog-nav .blog-nav-item h5 a {
     font-size: 4.5333333333rem;
