@@ -22,3 +22,7 @@ body.popup-2 {
   background-color: transparent;
   border: none;
 }
+
+#form-popup .form-popup-container .form-popup form div:nth-child(2) input {
+  width: 90%;
+}
