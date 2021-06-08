@@ -216,4 +216,8 @@ body.search-panel {
   #add-to-cart-fixed #empty-cart img {
     margin-bottom: 2.66vw;
   }
+
+  #add-to-cart-fixed.not-fixed #empaty-cart {
+    padding: 0 4rem;
+  }
 }
