@@ -3,3 +3,7 @@
 #form-popup .form-popup-container {
   height: auto;
 }
+
+#form-popup .form-popup-container .form-popup {
+  padding: 1vw 0;
+}
