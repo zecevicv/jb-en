@@ -37,7 +37,7 @@ body.popup2 {
 
 @media (max-width: 1023.98px) {
   #form-popup {
-    height: auto;
+    height: 80%;
   }
 
   #form-popup .form-popup-container {
