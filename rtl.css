@@ -38,6 +38,7 @@ body.popup2 {
 @media (max-width: 1023.98px) {
   #form-popup {
     height: 80%;
+    margin-bottom: 5vw;
   }
 
   #form-popup .form-popup-container {
