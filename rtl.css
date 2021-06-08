@@ -24,9 +24,5 @@ body.popup2 {
 }
 
 #form-popup .form-popup-container .form-popup form div:nth-child(2) input {
-  width: 100%;
-}
-
-#form-popup .form-popup-container .form-popup form div:nth-child(2) > div {
-  flex: 0 0 90%;
+  width: 90%;
 }
