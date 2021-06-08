@@ -40,4 +40,8 @@ body.popup2 {
     height: 90%;
     overflow-y: auto;
   }
+
+  #form-popup .form-popup-container {
+    overflow: visible;
+  }
 }
