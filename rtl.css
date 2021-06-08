@@ -43,4 +43,8 @@ body.popup2 {
   #form-popup .form-popup-container {
     overflow: visible;
   }
+
+  .overlay-container, .overlay-popup-container {
+    overflow-y: auto;
+  }
 }
