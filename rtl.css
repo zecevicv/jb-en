@@ -62,4 +62,8 @@ body.popup2 {
     height: auto;
     width: 1.5vw;
   }
+
+  #form-popup .form-popup-container .form-popup form div.checkbox {
+    margin-bottom: 4vw;
+  }
 }
