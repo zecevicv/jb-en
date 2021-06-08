@@ -120,6 +120,10 @@ body.popup2 {
 
 @media (max-width: 1023.98px) {
   #search-overlay {
-    top: 16rem;
+    top: 18.4rem;
+  }
+
+  #search-window {
+    max-height: calc(100vw - 18.4rem);
   }
 }
