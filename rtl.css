@@ -46,6 +46,5 @@ body.popup2 {
 
   .overlay-container, .overlay-popup-container {
     overflow-y: auto;
-    align-items: flex-start;
   }
 }
