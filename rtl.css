@@ -147,6 +147,10 @@ body.search-panel {
 
 /* #Magazine
 ================================================== */
+.blog-header .container .blog-nav {
+  width: 37rem;
+}
+
 .article-content img {
   width: 100%;
 }
