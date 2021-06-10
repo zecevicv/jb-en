@@ -127,7 +127,7 @@ body.search-panel {
   }
 
   #search-window {
-    max-height: calc(100vw - 17rem);
+    height: calc(100vw - 17rem);
   }
 }
 
