@@ -269,3 +269,11 @@ body.search-panel {
     font-size: 4.5333333333rem;
   }
 }
+
+/* #Terms of Use
+================================================== */
+@media (max-width: 1023.98px) {
+  .terms-of-use-content h3 {
+    font-size: 5rem;
+  }
+}
