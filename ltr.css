@@ -457,6 +457,10 @@ span.favincart {
   #add-to-cart-fixed .container .cart-products-container .cart-product {
     margin: 0 auto;
   }
+
+  .product-add-to-cart .container .add-to-cart .contact-media .contact-media-type img {
+    width: auto;
+  }
 }
 
 /* #Checkout
