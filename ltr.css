@@ -229,6 +229,10 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   background-position: 100% 70%;
 }
 
+#search-window #populer-searches span {
+  margin: 0 1.7rem 0 0;
+}
+
 /* #Login
 ================================================== */
 #login-or-subscribe > div.jb-login {
