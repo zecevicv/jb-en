@@ -285,3 +285,10 @@ body.search-panel {
     padding-bottom: 10vw;
   }
 }
+
+/* #Collection
+================================================== */
+.collection-gallery .container .collection-gallery-img img {
+  object-fit: cover;
+  object-position: center;
+}
