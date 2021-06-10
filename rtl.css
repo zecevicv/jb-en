@@ -256,6 +256,7 @@ body.search-panel {
 @media (max-width: 1023.98px) {
   #sort-container {
     text-align: center;
+    margin-bottom: 2.5vw;
   }
 
   #sort-container .select_menu {
