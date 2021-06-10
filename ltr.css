@@ -36,6 +36,10 @@
   margin-right: 0;
 }
 
+.select_menu {
+  background-position: 0% 25%;
+}
+
 @media (max-width: 1023.98px) {
   .link img {
     height: 2.9vw;
