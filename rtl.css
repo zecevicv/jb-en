@@ -227,6 +227,7 @@ body.search-panel {
 
 .product-add-to-cart .container .add-to-cart a {
   flex-direction: column;
+  text-align: center;
 }
 
 @media (max-width: 1023.98px) {
