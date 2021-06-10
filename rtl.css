@@ -8,7 +8,7 @@ body.search-panel {
 /* #Global
 ================================================== */
 @media (max-width: 1023.98px) {
-  .select_menu {
+  #sort-container .select_menu {
     height: 7rem;
     width: 19rem;
   }
