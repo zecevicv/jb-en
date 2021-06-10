@@ -621,6 +621,10 @@ ol[checkout-menu] li:last-of-type {
   margin-right: 0;
 }
 
+#sort-container .select_menu {
+  background-position: 100% 62%;
+}
+
 @media (max-width: 1023.98px) {
   .favorites-container .favorites-share .h2 {
     margin-left: 4rem;
