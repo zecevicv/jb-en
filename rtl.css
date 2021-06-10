@@ -151,6 +151,10 @@ body.search-panel {
   width: auto;
 }
 
+.blog-header .container .blog-nav .blog-nav-item:not(:last-child) {
+  margin-left: 1vw;
+}
+
 .article-content img {
   width: 100%;
 }
