@@ -5,6 +5,15 @@ body.search-panel {
   overflow: hidden;
 }
 
+/* #Global
+================================================== */
+@media (max-width: 1023.98px) {
+  .select_menu {
+    height: 7rem;
+    width: 19rem;
+  }
+}
+
 /* #Popup
 ================================================== */
 #form-popup .form-popup-container {
