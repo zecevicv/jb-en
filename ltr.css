@@ -458,8 +458,8 @@ span.favincart {
     margin: 0 auto;
   }
 
-  .product-add-to-cart .container .add-to-cart .contact-media .contact-media-type img {
-    width: auto;
+  .product-add-to-cart .container .add-to-cart a {
+    flex-direction: column;
   }
 }
 
