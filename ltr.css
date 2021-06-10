@@ -901,3 +901,10 @@ ol[checkout-menu] li:last-of-type {
     flex-direction: column;
   }
 }
+
+/* #Popup
+================================================== */
+#form-popup .form-popup-container .form-popup form div.checkbox .box {
+  margin-left: 0;
+  margin-right: 0.5729166667rem;
+}
