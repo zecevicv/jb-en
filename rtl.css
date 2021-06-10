@@ -5,15 +5,6 @@ body.search-panel {
   overflow: hidden;
 }
 
-/* #Global
-================================================== */
-@media (max-width: 1023.98px) {
-  #sort-container .select_menu {
-    height: 7rem;
-    width: 19rem;
-  }
-}
-
 /* #Popup
 ================================================== */
 #form-popup .form-popup-container {
@@ -257,5 +248,18 @@ body.search-panel {
 
   #add-to-cart-fixed.not-fixed #empaty-cart {
     padding: 0 4rem;
+  }
+}
+
+/* #Favourites
+================================================== */
+@media (max-width: 1023.98px) {
+  #sort-container .select_menu {
+    height: 7rem;
+    width: 19rem;
+  }
+
+  #sort-container span {
+    font-size: 4.5333333333rem;
   }
 }
