@@ -283,10 +283,19 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   margin-left: 17.03125rem;
   margin-right: 0;
 }
+#jb-registration .p1 a {
+  margin-left: 1.1rem;
+  margin-right: 0;
+}
 
 @media (max-width: 1023.98px) {
   .jb-account {
     margin: 10rem auto 0;
+  }
+
+  #jb-registration .p1 a {
+    margin-left: 6rem;
+    margin-right: 0;
   }
 }
 
