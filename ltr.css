@@ -65,6 +65,11 @@
     margin-left: 1.7rem;
     margin-right: 0;
   }
+
+  .select_menu {
+    height: 7rem;
+    width: 19rem;
+  }
 }
 
 /* #Magazine Page
