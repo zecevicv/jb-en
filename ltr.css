@@ -426,6 +426,12 @@ span.favincart {
   top: .5vw;
 }
 
+@media (max-width: 1023.98px) {
+  span.favincart {
+    top: 1vw;
+  }
+}
+
 /* #Cart Page
 ================================================== */
 #add-to-cart-fixed.not-fixed {
