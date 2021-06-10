@@ -290,5 +290,5 @@ body.search-panel {
 ================================================== */
 .collection-gallery .container .collection-gallery-img img {
   object-fit: cover;
-  object-position: center;
+  object-position: center center;
 }
