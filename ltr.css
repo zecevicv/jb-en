@@ -971,3 +971,11 @@ ol[checkout-menu] li:last-of-type {
     margin-right: 3.2rem;
   }
 }
+
+/* #Favourites
+================================================== */
+@media (max-width: 1023.98px) {
+  #sort-container .select_menu {
+    text-align: left;
+  }
+}
