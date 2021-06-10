@@ -277,3 +277,11 @@ body.search-panel {
     font-size: 5rem;
   }
 }
+
+/* #404
+================================================== */
+@media (max-width: 1023.98px) {
+  .page-404 .container {
+    padding-bottom: 10vw;
+  }
+}
