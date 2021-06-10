@@ -229,3 +229,9 @@ body.search-panel {
     padding: 0 4rem;
   }
 }
+
+/* #Button
+================================================== */
+.jb-black-btn span {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9.571' height='18.538' viewBox='0 0 9.571 18.538'%3E%3Cg id='next' transform='translate(9.283 18.25) rotate()'%3E%3Cg id='Group_6' data-name='Group 6'%3E%3Cpath id='Path_5' data-name='Path 5' d='M136.9,8.741,128.648.116a.375.375,0,1,0-.542.519l8,8.366-8,8.366a.375.375,0,0,0,.542.519l8.25-8.625A.376.376,0,0,0,136.9,8.741Z' transform='translate(-128.003 0)' fill='%23fff' stroke='%23fff' stroke-width='0.5'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E%0A");
+}
