@@ -585,7 +585,7 @@ ol[checkout-menu] li:last-of-type {
 
 @media (max-width: 1023.98px) {
   .product-add-to-cart .container {
-    flex-direction: column-reverse;
+    flex-direction: column-reverse!important;
   }
 
   .product-info > .container .product-info-content .product-info-content-headers .product-info-content-header.h3::after {
