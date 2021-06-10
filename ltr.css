@@ -317,6 +317,7 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
 @media (max-width: 1023.98px) {
   .personal-orders table td:last-of-type a {
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='29' viewBox='0 0 14 29'%3E%3Cg id='Group_6' data-name='Group 6' transform='rotate(180deg)'%3E%3Cpath id='Path_5' data-name='Path 5' d='M13.838,14.082,1,.186A.57.57,0,0,0,.18.167a.62.62,0,0,0-.018.854L12.609,14.5.161,27.978a.621.621,0,0,0,.018.854A.57.57,0,0,0,1,28.814l12.834-13.9A.621.621,0,0,0,13.838,14.082Z'/%3E%3C/g%3E%3C/svg%3E");
+    transform: none;
   }
 }
 
