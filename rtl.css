@@ -225,6 +225,10 @@ body.search-panel {
   direction: rtl;
 }
 
+.product-add-to-cart .container .add-to-cart a {
+  flex-direction: column;
+}
+
 @media (max-width: 1023.98px) {
   #add-to-cart-fixed #empaty-cart h3,
   #add-to-cart-fixed #empty-cart h3 {
