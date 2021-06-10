@@ -453,6 +453,11 @@ span.favincart {
   direction: ltr!important;
 }
 
+.product-add-to-cart .container .add-to-cart a {
+  margin-left: auto;
+  margin-right: 0;
+}
+
 @media (max-width: 1023.98px) {
   #add-to-cart-fixed .container .cart-products-container .cart-product {
     margin: 0 auto;
