@@ -262,6 +262,7 @@ body.search-panel {
   #sort-container .select_menu {
     height: 7rem;
     width: 19rem;
+    text-align: right;
   }
 
   #sort-container span {
