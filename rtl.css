@@ -167,6 +167,10 @@ body.search-panel {
   .blog-header .container .blog-nav {
     margin-top: 2vw;
   }
+
+  .blog-header .container .blog-nav .blog-nav-item:not(:last-child) {
+    margin-left: 3vw;
+  }
 }
 
 /* #More Posts
