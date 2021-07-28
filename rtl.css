@@ -456,4 +456,8 @@ select {
   .repair-header .container .page-navigation .container .navigation {
     margin: 6.09375rem auto 1.30208rem auto;
   }
+
+  .repair-header .container {
+    margin-bottom: 10rem;
+  }
 }
