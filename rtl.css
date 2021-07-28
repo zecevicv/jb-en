@@ -445,6 +445,10 @@ select {
     margin: 0 auto 2.66667rem auto;
   }
 
+  .repair-about .container>.p1 {
+    text-align: center;
+  }
+
   .page-template-template-repair-page {
     text-align: center;
   }
