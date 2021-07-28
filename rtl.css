@@ -86,6 +86,13 @@ body.search-panel {
     width: 90%;
   }
 
+  #product-popup .popup-content-container .link-container, 
+  #leave-popup .popup-content-container .link-container, 
+  #insta-popup .popup-content-container .link-container {
+    height: auto;
+    width: auto;
+  }
+
   #product-popup .popup-content-container .link-container .link, 
   #leave-popup .popup-content-container .link-container .link, 
   #insta-popup .popup-content-container .link-container .link {
