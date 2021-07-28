@@ -150,6 +150,12 @@ body.search-panel {
     margin-right: auto;
     margin-left: 0;
   }
+
+  .home-posts .container .swiper-container .post-info {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
 }
 
 /* #Search
