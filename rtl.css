@@ -303,3 +303,7 @@ body.search-panel {
   background-repeat: no-repeat;
   border-color: black;
 }
+
+.radio_cb label:before {
+  margin-left: 0.3rem;
+}
