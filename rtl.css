@@ -79,6 +79,12 @@ body.search-panel {
   #form-popup .form-popup-container .form-popup form div.checkbox {
     margin-bottom: 4vw;
   }
+
+  #product-popup .popup-content-container .p1, 
+  #leave-popup .popup-content-container .p1, 
+  #insta-popup .popup-content-container .p1 {
+    width: 90%;
+  }
 }
 
 /* #Homepage
