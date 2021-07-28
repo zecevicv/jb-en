@@ -369,4 +369,8 @@ body.search-panel {
   .product-add-to-cart .container .product-slider-container {
     margin-top: 0;
   }
+
+  .product-add-to-cart .container {
+    margin: 6rem auto 15rem auto;
+  }
 }
