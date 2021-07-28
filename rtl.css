@@ -5,6 +5,14 @@ body.search-panel {
   overflow: hidden;
 }
 
+/* #Mobile Menu
+================================================== */
+@media (max-width: 1023.98px) {
+  .main-menu-container {
+    z-index: 1000;
+  }
+}
+
 /* #Popup
 ================================================== */
 #form-popup .form-popup-container {
