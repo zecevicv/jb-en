@@ -449,12 +449,6 @@ select {
     text-align: center;
   }
 
-  .page-template-template-repair-page .repair-header,
-  .page-template-template-repair-page .repair-about,
-  .page-template-template-repair-page .repair-types {
-    text-align: center;
-  }
-
   .repair-header .container .page-navigation .container .navigation {
     margin: 6.09375rem auto 1.30208rem auto;
   }
