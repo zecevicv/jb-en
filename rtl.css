@@ -147,8 +147,8 @@ body.search-panel {
 
 @media (max-width: 1023.98px) {
   .home-posts .container {
-    margin-left: auto;
-    margin-right: 0;
+    margin-right: auto;
+    margin-left: 0;
   }
 }
 
