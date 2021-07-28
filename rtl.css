@@ -235,7 +235,7 @@ body.search-panel {
   object-fit: cover;
 }
 
-/* #Cart Popup
+/* #Cart
 ================================================== */
 .overlay-container #add-to-cart-fixed #empaty-cart,
 .overlay-container #add-to-cart-fixed #empty-cart {
@@ -274,6 +274,10 @@ body.search-panel {
 
 #add-to-cart-fixed.not-fixed>.container .cart-bottom .coupon_container #check_coupon ~ span {
   bottom: -1.4vw;
+}
+
+.sum-footer ul li {
+  flex: 0 0 30%;
 }
 
 @media (max-width: 1023.98px) {
