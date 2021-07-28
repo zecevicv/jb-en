@@ -314,6 +314,9 @@ body.search-panel {
     width: 4rem;
     height: 4rem;
     margin-left: 4rem;
+  }
+  
+  .radio_cb input:checked ~ label:before {
     background-size: 3vw auto;
   }
 }
