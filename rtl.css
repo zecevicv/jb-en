@@ -366,7 +366,7 @@ body.search-panel {
 /* #Product
 ================================================== */
 .product-add-to-cart .container .add-to-cart a {
-  text-align: unset;
+  text-align: initial;
 }
 
 @media (max-width: 1023.98px) {
