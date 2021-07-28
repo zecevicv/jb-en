@@ -317,7 +317,7 @@ body.search-panel {
 .terms-of-use-content h3 {
   font-size: 1.66667rem;
   line-height: 1.4;
-  margin-bottom: .78125rem;
+  margin: .78125rem 0;
 }
 
 .terms-of-use-content li {
