@@ -369,9 +369,8 @@ body.search-panel {
   text-align: initial;
 }
 
-.product-add-to-cart .container .add-to-cart a p {
+.product-add-to-cart .container .add-to-cart .contact-media .contact-media-type {
   flex-grow: 1;
-  white-space: nowrap;
 }
 
 @media (max-width: 1023.98px) {
