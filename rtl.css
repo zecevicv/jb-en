@@ -480,3 +480,9 @@ select {
     padding: 5vw 0 10vw 0;
   }
 }
+
+/* #About Page
+================================================== */
+.about-content2 .about-content2-ver1 {
+  overflow: hidden;
+}
