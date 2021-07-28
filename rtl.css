@@ -299,6 +299,10 @@ body.search-panel {
   #add-to-cart-fixed .container .cart-top .products-num {
     white-space: nowrap;
   }
+
+  #add-to-cart-fixed.not-fixed>.container .cart-bottom .coupon_container #check_coupon ~ span {
+    bottom: 6vw;
+  }
 }
 
 /* #Favourites
