@@ -104,6 +104,7 @@ body.search-panel {
 
   #product-popup .popup-content-container .link-container .link img, #leave-popup .popup-content-container .link-container .link img, #insta-popup .popup-content-container .link-container .link img {
     height: 2.9vw;
+    width: auto;
     margin-right: 2vw;
   }
 }
