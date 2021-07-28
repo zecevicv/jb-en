@@ -308,3 +308,11 @@ body.search-panel {
   margin-left: 0.3rem;
   margin-bottom: .25rem;
 }
+
+@media (max-width: 1023.98px) {
+  .radio_cb label:before {
+    width: 4rem;
+    height: 4rem;
+    margin-left: 4rem;
+  }
+}
