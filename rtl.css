@@ -301,7 +301,7 @@ body.search-panel {
   }
 
   #add-to-cart-fixed.not-fixed>.container .cart-bottom .coupon_container #check_coupon ~ span {
-    bottom: 6vw;
+    bottom: -6vw;
   }
 }
 
