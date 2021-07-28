@@ -85,6 +85,12 @@ body.search-panel {
   #insta-popup .popup-content-container .p1 {
     width: 90%;
   }
+
+  #product-popup .popup-content-container .link-container .link, 
+  #leave-popup .popup-content-container .link-container .link, 
+  #insta-popup .popup-content-container .link-container .link {
+    font-size: 4rem;
+  }
 }
 
 /* #Homepage
