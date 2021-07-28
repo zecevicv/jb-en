@@ -313,7 +313,7 @@ body.search-panel {
   .radio_cb label:before {
     width: 4rem;
     height: 4rem;
-    margin-left: 3rem;
+    margin-left: 2rem;
   }
   
   .radio_cb input:checked ~ label:before {
