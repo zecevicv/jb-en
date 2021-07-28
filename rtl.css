@@ -435,3 +435,11 @@ select {
     margin-bottom: 0;
   }
 }
+
+/* #Customer Service
+================================================== */
+@media (max-width: 1023.98px) {
+  .repair-header .container .page-navigation .container .navigation {
+    margin: 6.09375rem auto 1.30208rem auto;
+  }
+}
