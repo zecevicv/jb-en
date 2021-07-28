@@ -334,6 +334,10 @@ body.search-panel {
     font-size: 4rem;
     margin-bottom: 4rem;
   }
+
+  .terms-of-use-content ol {
+    padding-right: 4%;
+  }
 }
 
 /* #404
