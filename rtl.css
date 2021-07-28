@@ -291,6 +291,10 @@ body.search-panel {
   #add-to-cart-fixed.not-fixed #empaty-cart {
     padding: 0 4rem;
   }
+
+  #add-to-cart-fixed .container .cart-top .products-num {
+    white-space: nowrap;
+  }
 }
 
 /* #Favourites
