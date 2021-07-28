@@ -449,7 +449,9 @@ select {
     text-align: center;
   }
 
-  .page-template-template-repair-page .main-wrapper {
+  .page-template-template-repair-page .repair-header,
+  .page-template-template-repair-page .repair-about,
+  .page-template-template-repair-page .repair-types {
     text-align: center;
   }
 
