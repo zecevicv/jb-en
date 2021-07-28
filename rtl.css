@@ -415,3 +415,9 @@ body.search-panel {
     margin: 6rem auto 15rem auto;
   }
 }
+
+/* #Shop
+================================================== */
+.category-header .container {
+  height: auto;
+}
