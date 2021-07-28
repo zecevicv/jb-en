@@ -89,7 +89,10 @@ body.search-panel {
   #product-popup .popup-content-container .link-container .link, 
   #leave-popup .popup-content-container .link-container .link, 
   #insta-popup .popup-content-container .link-container .link {
-    font-size: 4rem;
+    font-size: 4.53333rem;
+    padding: 2rem 16.4rem;
+    width: auto;
+    height: auto;
   }
 }
 
