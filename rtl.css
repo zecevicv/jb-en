@@ -329,6 +329,11 @@ body.search-panel {
     font-size: 5rem;
     margin: 4rem 0;
   }
+
+  .terms-of-use-content li {
+    font-size: 4rem;
+    margin-bottom: 4rem;
+  }
 }
 
 /* #404
