@@ -371,6 +371,7 @@ body.search-panel {
 
 .product-add-to-cart .container .add-to-cart a p {
   flex-grow: 1;
+  white-space: nowrap;
 }
 
 @media (max-width: 1023.98px) {
