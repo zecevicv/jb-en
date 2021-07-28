@@ -92,7 +92,7 @@ body.search-panel {
 
   #product-popup .popup-content-container .link-container {
     height: auto;
-    width: auto;
+    width: 90%;
   }
 
   #product-popup .popup-content-container .link-container .link {
