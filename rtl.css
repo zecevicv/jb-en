@@ -445,7 +445,8 @@ select {
     margin: 0 auto 2.66667rem auto;
   }
 
-  .repair-about .container>.p1 {
+  .repair-about .container>.p1,
+  .repair-header .container .repair-header-text {
     text-align: center;
   }
 
