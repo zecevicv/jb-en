@@ -314,6 +314,10 @@ body.search-panel {
 
 /* #Terms of Use
 ================================================== */
+.terms-of-use-content .h2 {
+  font-weight: bold;
+}
+
 .terms-of-use-content h3 {
   font-size: 1.66667rem;
   line-height: 1.4;
