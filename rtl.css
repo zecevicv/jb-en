@@ -421,3 +421,7 @@ body.search-panel {
 .category-header .container {
   height: auto;
 }
+
+select {
+  font-family: inherit;
+}
