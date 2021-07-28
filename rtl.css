@@ -362,3 +362,11 @@ body.search-panel {
     background-size: 2.5vw auto;
   }
 }
+
+/* #Product
+================================================== */
+@media (max-width: 1023.98px) {
+  .product-add-to-cart .container .product-slider-container {
+    margin-top: 0;
+  }
+}
