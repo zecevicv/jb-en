@@ -373,6 +373,10 @@ body.search-panel {
   white-space: nowrap;
 }
 
+.product-info>.container .product-info-content .product-info-content-headers .product-info-content-header.h3 {
+  color: black;
+}
+
 @media (max-width: 1023.98px) {
   .product-add-to-cart .container .product-slider-container {
     margin-top: 0;
