@@ -455,7 +455,8 @@ select {
   }
 
   .repair-header .container,
-  .repair-about .container {
+  .repair-about .container,
+  .repair-types .container>div {
     margin-bottom: 15rem;
   }
 }
