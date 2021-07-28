@@ -459,4 +459,8 @@ select {
   .repair-types .container>div {
     margin-bottom: 15rem;
   }
+
+  .page-template-template-repair-page .more-posts {
+    padding: 5vw 0 10vw 0;
+  }
 }
