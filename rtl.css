@@ -80,6 +80,11 @@ body.search-panel {
     margin-bottom: 4vw;
   }
 
+  #product-popup .popup-content-container {
+    height: auto;
+    padding: 15vw 0;
+  }
+
   #product-popup .popup-content-container .p1 {
     width: 90%;
     margin: 2vw auto 6vw auto;
