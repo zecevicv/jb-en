@@ -317,6 +317,6 @@ body.search-panel {
   }
   
   .radio_cb input:checked ~ label:before {
-    background-size: 3vw auto;
+    background-size: 2.5vw auto;
   }
 }
