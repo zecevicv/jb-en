@@ -979,3 +979,10 @@ ol[checkout-menu] li:last-of-type {
     text-align: left;
   }
 }
+
+/* #Checkbox
+================================================== */
+.radio_cb label:before {
+  margin-left: 0;
+  margin-right: 0.71rem;
+}
