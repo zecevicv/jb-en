@@ -483,6 +483,6 @@ select {
 
 /* #About Page
 ================================================== */
-.about-content2 .about-content2-ver1 {
+.about-content2.about-content2-ver1 {
   overflow: hidden;
 }
