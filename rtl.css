@@ -320,6 +320,10 @@ body.search-panel {
   margin-bottom: .78125rem;
 }
 
+.terms-of-use-content li {
+  margin-bottom: .78125rem;
+}
+
 @media (max-width: 1023.98px) {
   .terms-of-use-content h3 {
     font-size: 5rem;
