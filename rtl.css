@@ -483,5 +483,6 @@ select {
 
 /* #About Page
 ================================================== */
-.about-content2.about-content2-ver1 {
+.about-content2.about-content2-ver1 .container .about-images-overlay picture:last-child {
+  left: -5rem;
 }
