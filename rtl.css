@@ -314,5 +314,6 @@ body.search-panel {
     width: 4rem;
     height: 4rem;
     margin-left: 4rem;
+    background-size: 3vw auto;
   }
 }
