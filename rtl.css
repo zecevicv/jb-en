@@ -318,6 +318,7 @@ body.search-panel {
   font-size: 1.66667rem;
   line-height: 1.4;
   margin: .78125rem 0;
+  font-weight: bold;
 }
 
 .terms-of-use-content li {
