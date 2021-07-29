@@ -343,6 +343,10 @@ body.search-panel {
   #add-to-cart-fixed.not-fixed>.container .cart-bottom .coupon_container #check_coupon ~ span {
     bottom: -6vw;
   }
+
+  #add-to-cart-fixed {
+    min-height: 100%;
+  }
 }
 
 /* #Favourites
