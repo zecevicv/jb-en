@@ -205,6 +205,10 @@ body.search-panel {
   bottom: 0rem;
 }
 
+.blog-content .container .blog-item a img {
+  width: 100%;
+}
+
 @media (min-width: 1023.98px) {
   .blog-content .container .blog-item .h3 {
     margin: 1vw 0 .5vw 0;
