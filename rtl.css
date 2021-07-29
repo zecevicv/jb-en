@@ -205,7 +205,7 @@ body.search-panel {
   bottom: 0rem;
 }
 
-.blog-content .container .blog-item a img {
+.blog-content .container .blog-item a:first-child img {
   width: 100%;
 }
 
