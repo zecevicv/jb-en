@@ -454,7 +454,7 @@ select {
 
 /* #Customer Service
 ================================================== */
-.page-template-template-service .customer-service-header {
+.page-template-template-service .customer-service-header .container {
   text-align: center;
 }
 
