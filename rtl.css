@@ -492,10 +492,16 @@ select {
 
 .slider-product .product-title {
   margin-bottom: 1vw;
+  font-weight: 200;
 }
 
 .category-content .container .slider-product .product-price span.bold {
   width: auto;
+}
+
+.slider-product .tax {
+  height: auto;
+  font-size: .8vw;
 }
 
 @media (max-width: 1023.98px) {
