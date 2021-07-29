@@ -228,6 +228,11 @@ body.search-panel {
   .blog-header .container .blog-nav .blog-nav-item:not(:last-child) {
     margin-left: 3vw;
   }
+
+  .blog-content .container .blog-item .h3 {
+    margin: 2vw 0;
+    font-size: 7vw;
+  }
 }
 
 /* #More Posts
