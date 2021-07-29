@@ -150,6 +150,14 @@ body.search-panel {
   object-fit: cover;
 }
 
+.home-categories .container .categories .category .link {
+  text-decoration: none;
+}
+
+.home-categories .container .categories .category:hover .link {
+  text-decoration: underline;
+}
+
 @media (max-width: 1023.98px) {
   .home-posts .container {
     margin-right: auto;
