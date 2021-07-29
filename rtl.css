@@ -519,6 +519,10 @@ select {
   .category-content .container .slider-product .product-price span {
     margin-bottom: 0;
   }
+
+  .category-content .container .slider-product .product-price {
+    align-items: center;
+  }
 }
 
 /* #Customer Service
