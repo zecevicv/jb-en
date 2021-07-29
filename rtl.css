@@ -481,7 +481,7 @@ body.search-panel {
   
   .product-add-to-cart .container .add-to-cart .add-to-cart-btn::before {
     content: '';
-    background: #0E65F3;
+    background: black;
     transition: transform 0.3s cubic-bezier(0.7, 0, 0.2, 1);
     position: absolute;
     top: 0;
@@ -494,7 +494,7 @@ body.search-panel {
   }
   
   .product-add-to-cart .container .add-to-cart .add-to-cart-btn:hover {
-    /* color: black; */
+    color: white;
   }
   
   .product-add-to-cart .container .add-to-cart .add-to-cart-btn:hover::before {
