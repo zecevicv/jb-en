@@ -494,6 +494,10 @@ select {
   margin-bottom: 1vw;
 }
 
+.category-content .container .slider-product .product-price span.bold {
+  width: auto;
+}
+
 @media (max-width: 1023.98px) {
   .category-content .container .category-items .category-item {
     margin-bottom: 0;
