@@ -205,6 +205,12 @@ body.search-panel {
   bottom: 0rem;
 }
 
+@media (min-width: 1023.98px) {
+  .blog-content .container .blog-item .h3 {
+    margin: 1vw 0 .5vw 0;
+  }
+}
+
 @media (max-width: 1023.98px) {
   .blog-header .container .blog-nav .blog-nav-item h5 a {
     font-size: 4.5333333333rem;
