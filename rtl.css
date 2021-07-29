@@ -454,6 +454,10 @@ select {
 
 /* #Customer Service
 ================================================== */
+.page-template-template-service .customer-service-header {
+  text-align: center;
+}
+
 @media (max-width: 1023.98px) {
   .repair-about .container .h2 {
     text-align: center;
