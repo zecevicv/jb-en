@@ -525,6 +525,10 @@ select {
     align-items: center;
     line-height: 1;
   }
+
+  .slider-product .tax.p1 {
+    margin-top: 2vw;
+  }
 }
 
 /* #Customer Service
