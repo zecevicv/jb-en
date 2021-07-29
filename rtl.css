@@ -467,7 +467,7 @@ body.search-panel {
     position: relative;
     overflow: hidden;
     background-color: white;
-    color: black;
+    color: white;
     border: 1px solid black;
   }
 
@@ -494,7 +494,7 @@ body.search-panel {
   }
   
   .product-add-to-cart .container .add-to-cart .add-to-cart-btn:hover {
-    color: white;
+    color: black;
   }
   
   .product-add-to-cart .container .add-to-cart .add-to-cart-btn:hover::before {
