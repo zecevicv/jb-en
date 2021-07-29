@@ -463,6 +463,10 @@ select {
     justify-content: center;
   }
 
+  .customer-service-header .container .shipping-nav > * {
+    margin: 1vw;
+  }
+
   .repair-about .container .h2 {
     text-align: center;
     max-width: 100%;
