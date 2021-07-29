@@ -517,4 +517,9 @@ select {
   .about-content1 .about-images-overlay {
     margin-top: 10vw;
   }
+
+  .about-content1 .container .h2 {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
