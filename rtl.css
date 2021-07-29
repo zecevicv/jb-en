@@ -347,6 +347,10 @@ body.search-panel {
   #add-to-cart-fixed {
     min-height: 100%;
   }
+
+  #add-to-cart-fixed .container .cart-products-container {
+    height: 48%;
+  }
 }
 
 /* #Favourites
