@@ -522,6 +522,7 @@ select {
 
   .category-content .container .slider-product .product-price {
     align-items: center;
+    line-height: 1;
   }
 }
 
