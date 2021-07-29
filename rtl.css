@@ -155,7 +155,7 @@ body.search-panel {
 }
 
 .home-categories .container .categories .category:hover .link {
-  border-bottom: 1px solid white;
+  text-decoration: underline;
 }
 
 @media (max-width: 1023.98px) {
