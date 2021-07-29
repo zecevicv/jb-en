@@ -511,6 +511,10 @@ select {
   .category-content .container .category-items .category-item {
     margin-bottom: 0;
   }
+
+  .slider-product .product-title {
+    min-height: 0;
+  }
 }
 
 /* #Customer Service
