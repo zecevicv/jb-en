@@ -518,6 +518,7 @@ select {
 
   .category-content .container .slider-product .product-price span {
     margin-bottom: 0;
+    font-size: 4vw;
   }
 
   .category-content .container .slider-product .product-price {
