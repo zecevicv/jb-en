@@ -524,6 +524,7 @@ select {
   .category-content .container .slider-product .product-price {
     align-items: center;
     line-height: 1;
+    margin-top: 2vw;
   }
 
   .slider-product .tax.p1 {
