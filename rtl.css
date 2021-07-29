@@ -495,14 +495,16 @@ select {
   font-weight: 200;
 }
 
-.category-content .container .slider-product .product-price span.bold {
-  width: auto;
-}
-
-.slider-product .tax {
-  line-height: 1;
-  font-size: .7vw;
-  font-weight: 200;
+@media (min-width: 1023.98px) {
+  .category-content .container .slider-product .product-price span.bold {
+    width: auto;
+  }
+  
+  .slider-product .tax {
+    line-height: 1;
+    font-size: .7vw;
+    font-weight: 200;
+  }
 }
 
 @media (max-width: 1023.98px) {
