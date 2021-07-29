@@ -504,6 +504,10 @@ select {
     margin-bottom: 10rem;
   }
 
+  .about-images-overlay {
+    margin-top: 10vw;
+  }
+
   .about-content2.about-content2-ver1 .container .about-images-overlay picture:last-child {
     left: -5rem;
   }
