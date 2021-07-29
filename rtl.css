@@ -495,10 +495,12 @@ select {
 
 /* #About Page
 ================================================== */
-/* .about-content2.about-content2-ver1 .container .about-images-overlay picture:last-child {
-  left: -5rem;
-}
-
 .about-header .container {
   width: auto;
-} */
+}
+
+@media (min-width: 1023.98px) {
+  .about-content2.about-content2-ver1 .container .about-images-overlay picture:last-child {
+    left: -5rem;
+  }
+}
