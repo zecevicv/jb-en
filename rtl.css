@@ -55,7 +55,7 @@ body.search-panel {
     width: 100%;
   }
   
-  .header-logo img {
+  .header .container .header-main .header-logo img {
     width: 6.25vw;
   }
 
