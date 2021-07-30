@@ -65,7 +65,7 @@ body.search-panel {
   .header-logo::after {
     content: '';
     background-color: black;
-    width: 45%;
+    width: 47%;
     height: 1px;
     position: absolute;
     bottom: .5vw;
@@ -75,7 +75,7 @@ body.search-panel {
   .header-logo::before {
     content: '';
     background-color: black;
-    width: 45%;
+    width: 47%;
     height: 1px;
     position: absolute;
     bottom: .5vw;
