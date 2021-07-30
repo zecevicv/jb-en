@@ -656,3 +656,9 @@ select {
     margin-right: auto;
   }
 }
+
+/* #Brands
+================================================== */
+.collection-header .container .text {
+  text-align: center;
+}
