@@ -77,6 +77,11 @@ body.search-panel {
     align-items: center;
     justify-content: center;
   }
+
+  .header-logo a {
+    position: relative;
+    z-index: 200;
+  }
   
   .header .container .header-main .header-logo img {
     width: 6.25vw;
