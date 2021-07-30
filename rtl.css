@@ -679,6 +679,10 @@ select {
 }
 
 @media (max-width: 1023.98px) {
+  .collection-about .container {
+    margin-top: 12rem;
+  }
+
   .collection-about .container .img {
     margin-bottom: 4vw;
   }
