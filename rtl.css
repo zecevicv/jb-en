@@ -527,6 +527,10 @@ body.search-panel {
   .product-info>.container .product-info-content .product-info-content-headers .product-info-content-header.h3 {
     color: black;
   }
+
+  .swiper-pagination-bullet {
+    width: 9vw;
+  }
 }
 
 /* #Shop
