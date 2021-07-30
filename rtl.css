@@ -39,6 +39,11 @@ body.search-panel {
   .main-menu>li>.sub-menu {
     top: 7.5rem;
   }
+
+  .header .container .header-main .header-actions .top {
+    margin-bottom: 0;
+    line-height: 1;
+  }
 }
 
 @media (max-width: 1023.98px) {
