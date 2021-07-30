@@ -37,6 +37,10 @@ body.search-panel {
     justify-content: center;
   }
 
+  .main-menu>li {
+    margin: 0 1.5vw;
+  }
+
   .main-menu>li>.sub-menu {
     top: 7.5rem;
   }
