@@ -22,6 +22,11 @@ body.search-panel {
     order: 5;
   }
 
+  .header .header-actions {
+    flex: 0 0 100%;
+    order: 4;
+  }
+
   .header .main-menu {
     max-width: 100%;
     justify-content: center;
