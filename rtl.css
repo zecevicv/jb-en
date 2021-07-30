@@ -24,6 +24,7 @@ body.search-panel {
 
   .header .main-menu {
     max-width: 100%;
+    justify-content: center;
   }
 }
 
