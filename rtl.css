@@ -696,3 +696,10 @@ select {
     margin-top: 3rem;
   }
 }
+
+
+/* #Checkout
+================================================== */
+.form-row div.validation-error {
+  font-size: 4vw;
+}
