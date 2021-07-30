@@ -102,6 +102,10 @@ body.search-panel {
   .header .container {
     height: auto;
   }
+
+  .header-logo {
+    position: static;
+  }
 }
 
 .footer .container .footer-top .footer-nav .footer-nav-group .footer-nav-links li a::after,
