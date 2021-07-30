@@ -54,14 +54,15 @@ body.search-panel {
     position: relative;
   }
 
-  .header-logo::after {
+  /* .header-logo::after {
     content: 'SINCE 1927';
     font-size: .6vw;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-  }
+    background-color: white;
+  } */
 }
 
 @media (max-width: 1023.98px) {
