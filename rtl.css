@@ -26,6 +26,10 @@ body.search-panel {
     max-width: 100%;
     justify-content: center;
   }
+
+  .main-menu>li>.sub-menu {
+    top: 7.5rem;
+  }
 }
 
 @media (max-width: 1023.98px) {
