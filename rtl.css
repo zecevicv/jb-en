@@ -29,7 +29,6 @@ body.search-panel {
     flex-direction: row-reverse;
     align-items: center;
     justify-content: space-between;
-    margin-top: -3vw;
   }
 
   .header .main-menu {
@@ -51,7 +50,7 @@ body.search-panel {
   }
 
   .header-logo {
-    margin: 0 auto;
+    margin: 0 auto -4vw auto;
     position: relative;
     width: 100%;
     display: flex;
