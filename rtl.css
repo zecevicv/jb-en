@@ -65,11 +65,21 @@ body.search-panel {
   .header-logo::after {
     content: '';
     background-color: black;
-    width: 100%;
+    width: 45%;
     height: 1px;
     position: absolute;
     bottom: .5vw;
     left: 0;
+  }
+
+  .header-logo::before {
+    content: '';
+    background-color: black;
+    width: 45%;
+    height: 1px;
+    position: absolute;
+    bottom: .5vw;
+    right: 0;
   }
 }
 
