@@ -98,6 +98,10 @@ body.search-panel {
   .header {
     z-index: 1000;
   }
+
+  .header .container {
+    height: auto;
+  }
 }
 
 .footer .container .footer-top .footer-nav .footer-nav-group .footer-nav-links li a::after,
