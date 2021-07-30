@@ -29,6 +29,7 @@ body.search-panel {
     flex-direction: row-reverse;
     align-items: center;
     justify-content: space-between;
+    margin-top: -2vw;
   }
 
   .header .main-menu {
