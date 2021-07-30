@@ -10,7 +10,7 @@ body.search-panel {
 @media (min-width: 1024px) {
   .header .container {
     height: auto;
-    padding: 1.3vw 0;
+    padding: .9vw 0;
   }
 
   .header .container .header-main {
