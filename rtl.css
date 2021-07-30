@@ -740,6 +740,10 @@ select {
   .slider-product .tax.p1 {
     margin-top: 2vw;
   }
+
+  .category-header .container .category-header-text .p1 {
+    width: 91.86667rem;
+  }
 }
 
 /* #Customer Service
