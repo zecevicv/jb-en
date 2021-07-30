@@ -68,7 +68,7 @@ body.search-panel {
     width: 100%;
     height: 1px;
     position: absolute;
-    bottom: .3vw;
+    bottom: .5vw;
     left: 0;
   }
 }
