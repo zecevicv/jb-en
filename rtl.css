@@ -21,6 +21,10 @@ body.search-panel {
     flex: 0 0 100%;
     order: 5;
   }
+
+  .header .main-menu {
+    max-width: 100%;
+  }
 }
 
 @media (max-width: 1023.98px) {
