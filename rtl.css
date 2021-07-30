@@ -686,4 +686,9 @@ select {
   .collection-about .container .img {
     margin-bottom: 4vw;
   }
+
+  .collection-slider1 .container .link,
+  .collection-slider2 .container .collection-slider2-btn {
+    margin-top: 3rem;
+  }
 }
