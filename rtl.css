@@ -53,6 +53,9 @@ body.search-panel {
     margin: 0 auto;
     position: relative;
     width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   .header .container .header-main .header-logo img {
