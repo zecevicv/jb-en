@@ -662,3 +662,14 @@ select {
 .collection-header .container .text {
   text-align: center;
 }
+
+@media (min-width: 1024px) {
+  .collection-about .container {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .collection-about .container .img {
+    margin-bottom: 1vw;
+  }
+}
