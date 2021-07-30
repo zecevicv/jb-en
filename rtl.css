@@ -44,6 +44,10 @@ body.search-panel {
     margin-bottom: 0;
     line-height: 1;
   }
+
+  .header .container .header-main .header-actions .top a:first-child {
+    margin-right: 1vw;
+  }
 }
 
 @media (max-width: 1023.98px) {
