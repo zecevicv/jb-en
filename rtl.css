@@ -52,6 +52,10 @@ body.search-panel {
   .header-logo {
     margin: 0 auto;
     position: relative;
+    width: 100%;
+  }
+  
+  .header-logo img {
     width: 6.25vw;
   }
 
@@ -61,7 +65,7 @@ body.search-panel {
     width: 100%;
     height: 1px;
     position: absolute;
-    
+
   }
 }
 
