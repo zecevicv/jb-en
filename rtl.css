@@ -19,6 +19,7 @@ body.search-panel {
 
   .header .main-menu-container {
     flex: 0 0 100%;
+    order: 5;
   }
 }
 
