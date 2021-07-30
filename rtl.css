@@ -12,6 +12,14 @@ body.search-panel {
     height: auto;
     padding: 1.3vw 0;
   }
+
+  .header .container .header-main {
+    flex-wrap: wrap;
+  }
+
+  .header .main-menu-container {
+    flex: 0 0 100%;
+  }
 }
 
 @media (max-width: 1023.98px) {
