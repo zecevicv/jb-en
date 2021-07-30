@@ -7,6 +7,13 @@ body.search-panel {
 
 /* #Header & Footer
 ================================================== */
+@media (min-width: 1024px) {
+  .header .container {
+    height: auto;
+    padding: 1.3vw 0;
+  }
+}
+
 @media (max-width: 1023.98px) {
   .header {
     z-index: 1000;
