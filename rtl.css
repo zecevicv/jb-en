@@ -314,8 +314,9 @@ body.search-panel {
     justify-content: center;
   }
 
-  .home-videos .container .text .h3 {
-    font-size: 2.93333rem;
+  .home-videos .container .text .h3,
+  .home-network .container .text p {
+    font-size: 4.53333rem;
   }
 }
 
