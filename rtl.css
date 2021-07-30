@@ -298,6 +298,10 @@ body.search-panel {
   text-decoration: underline;
 }
 
+.home-videos .container .text .h3 {
+  font-size: .9375rem;
+}
+
 @media (max-width: 1023.98px) {
   .home-posts .container {
     margin-right: auto;
