@@ -688,6 +688,10 @@ body.search-panel {
   height: auto;
 }
 
+.category-header .container .category-header-text .p1 {
+  width: 23.77083rem;
+}
+
 select {
   font-family: inherit;
 }
