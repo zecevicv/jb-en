@@ -43,6 +43,8 @@ body.search-panel {
     align-items: center;
     justify-content: space-between;
     margin-bottom: 1vw;
+    position: relative;
+    z-index: 100;
   }
 
   .header .main-menu {
