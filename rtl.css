@@ -316,6 +316,10 @@ body.search-panel {
   flex: 0 0 30%;
 }
 
+#add-to-cart-fixed .container .cart-products-container .cart-product a {
+  padding-left: 1vw;
+}
+
 @media (max-width: 1023.98px) {
   #add-to-cart-fixed #empaty-cart h3,
   #add-to-cart-fixed #empty-cart h3 {
