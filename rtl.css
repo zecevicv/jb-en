@@ -709,4 +709,8 @@ select {
     margin-right: auto;
     width: 92%;
   }
+
+  span.favincart {
+    right: 4%;
+  }
 }
