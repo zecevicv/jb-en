@@ -2,6 +2,27 @@
 
 .en_light {
   font-family: 'Cormorant', serif;
+  font-weight: 300;
+}
+
+.en_regular {
+  font-family: 'Cormorant', serif;
+  font-weight: 400;
+}
+
+.en_medium {
+  font-family: 'Cormorant', serif;
+  font-weight: 500;
+}
+
+.en_semi-bold {
+  font-family: 'Cormorant', serif;
+  font-weight: 600;
+}
+
+.en_bold {
+  font-family: 'Cormorant', serif;
+  font-weight: 700;
 }
 
 /* #Body
