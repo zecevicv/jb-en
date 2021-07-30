@@ -5,6 +5,12 @@ body.search-panel {
   overflow: hidden;
 }
 
+@media (min-width: 1024px) {
+  body {
+    padding-top: 9.48vw;
+  }
+}
+
 /* #Header & Footer
 ================================================== */
 @media (min-width: 1024px) {
