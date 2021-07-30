@@ -56,6 +56,10 @@ body.search-panel {
 
   .header-logo::after {
     content: 'SINCE 1927';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
   }
 }
 
