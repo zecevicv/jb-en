@@ -707,5 +707,6 @@ select {
 
   #add-to-cart-fixed .container .cart-products-container .cart-product {
     margin-right: auto;
+    width: 92%;
   }
 }
