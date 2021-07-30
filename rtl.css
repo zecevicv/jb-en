@@ -51,6 +51,11 @@ body.search-panel {
 
   .header-logo {
     margin: 0 auto;
+    position: relative;
+  }
+
+  .header-logo::after {
+    content: 'SINCE 1927';
   }
 }
 
