@@ -323,6 +323,10 @@ body.search-panel {
   .home-features {
     padding: 12vw 0;
   }
+
+  .home-popular-products {
+    padding: 20rem 0 0rem 0;
+  }
 }
 
 /* #Search
