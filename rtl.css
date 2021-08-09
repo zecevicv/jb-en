@@ -925,3 +925,10 @@ select {
   width: 100%;
   text-align: inherit;
 }
+
+@media (max-width: 1023.98px) {
+  .woocommerce-lost-password .jb-account > div:first-child {
+    width: 100%;
+    font-size: 4rem;
+  }
+}
