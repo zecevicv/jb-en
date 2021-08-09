@@ -444,6 +444,11 @@ span.favincart {
   padding-left: 0;
 }
 
+#add-to-cart-fixed .container .cart-bottom .cart-footer div img {
+  margin-left: 0;
+  margin-right: .80208rem;
+}
+
 @media (max-width: 1023.98px) {
   span.favincart {
     top: 2vw;
