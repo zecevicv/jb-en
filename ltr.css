@@ -913,7 +913,8 @@ ol[checkout-menu] li:last-of-type {
     margin-right: 0;
   }
 
-  .home-popular-products .slider-bottom {
+  .home-popular-products .slider-bottom,
+  .home-brands .container .slider-bottom {
     max-width: 100%;
   }
 }
