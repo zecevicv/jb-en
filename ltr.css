@@ -1084,3 +1084,15 @@ ol[checkout-menu] li:last-of-type {
     margin-right: 2rem;
   }
 }
+
+/* #404
+================================================== */
+@media (max-width: 1023.98px) {
+  .page-404 .container .page-404-img img:first-child {
+    right: 0rem;
+  }
+
+  .page-404 .container .page-404-img img:last-child {
+    left: 0rem;
+  }
+}
