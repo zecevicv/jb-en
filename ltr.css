@@ -774,6 +774,12 @@ ol[checkout-menu] li:last-of-type {
   top: 8.8rem;
 }
 
+@media (min-width: 1024px) {
+  .about-content2.about-content2-ver1 .container .about-images-overlay {
+    right: -4rem;
+  }
+}
+
 @media (max-width: 1023.98px) {
   .about-content1 .container {
     text-align: left;
