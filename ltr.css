@@ -666,6 +666,16 @@ ol[checkout-menu] li:last-of-type {
   background-position: 100% 62%;
 }
 
+@media (min-width: 1024px) {
+  .favorites-container .favorites-share ul {
+    margin-right: 3.3rem;
+  }
+
+  .favorites-container .favorites-share .h2 {
+    margin-left: 3.4rem;
+  }
+}
+
 @media (max-width: 1023.98px) {
   .favorites-container .favorites-share .h2 {
     margin-left: 4rem;
