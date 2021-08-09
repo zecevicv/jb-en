@@ -319,6 +319,10 @@ body.search-panel {
   .home-network .container .text p {
     font-size: 4.53333rem;
   }
+
+  .home-features {
+    padding: 12vw 0;
+  }
 }
 
 /* #Search
