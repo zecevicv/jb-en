@@ -910,13 +910,13 @@ ol[checkout-menu] li:last-of-type {
 
 /* #Lost Password
 ================================================== */
-.jb-account {
+#jb-reset-password {
   margin-left: 17.03125rem;
   margin-right: 0;
 }
 
 @media (max-width: 1023.98px) {
-  .jb-account {
+  #jb-reset-password {
     margin: 10rem auto 0;
   }
 }
