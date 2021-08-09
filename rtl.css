@@ -103,7 +103,6 @@ body.search-panel {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: 0;
   }
 
   .header-logo a {
@@ -147,6 +146,7 @@ body.search-panel {
 
   .header-logo {
     position: static;
+    padding-top: 0;
   }
 
   .header .container .header-main {
