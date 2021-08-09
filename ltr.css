@@ -452,6 +452,11 @@ span.favincart {
   #add-to-cart-fixed .container .cart-products-container .cart-product a {
     padding-right: 2.66vw;
   }
+
+  #add-to-cart-fixed.not-fixed>.container .cart-bottom>a button img {
+    margin-left: 2.02533rem;
+    margin-right: 0;
+  }
 }
 
 /* #Cart Page
