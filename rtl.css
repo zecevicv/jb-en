@@ -909,3 +909,9 @@ select {
     width: 88.38542rem;
   }
 }
+
+/* #Lost Password
+================================================== */
+.woocommerce-lost-password .jb-account {
+  align-items: center;
+}
