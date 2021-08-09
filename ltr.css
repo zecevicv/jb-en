@@ -896,6 +896,10 @@ ol[checkout-menu] li:last-of-type {
     margin-right: 5vw;
     margin-left: 0;
   }
+
+  .home-popular-products .slider-bottom {
+    max-width: 100%;
+  }
 }
 
 @media (max-width: 1023.98px) {
