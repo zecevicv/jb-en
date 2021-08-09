@@ -916,6 +916,10 @@ select {
   align-items: center;
 }
 
+.woocommerce-lost-password .jb-account > div:first-child {
+  width: 30%;
+}
+
 .woocommerce-lost-password .woocommerce-message, 
 .woocommerce-lost-password .woocommerce-MyAccount-content>p {
   width: 100%;
