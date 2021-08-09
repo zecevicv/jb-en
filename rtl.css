@@ -152,9 +152,6 @@ body.search-panel {
   .header .container .header-main {
     padding: 1.5vw 0;
   }
-
-  .main-menu-container {
-  }
 }
 
 .footer .container .footer-top .footer-nav .footer-nav-group .footer-nav-links li a::after,
@@ -723,7 +720,7 @@ select {
   font-weight: 200;
 }
 
-@media (min-width: 1023.98px) {
+@media (min-width: 1024px) {
   .category-content .container .slider-product .product-price span.bold {
     width: auto;
   }
@@ -732,6 +729,10 @@ select {
     line-height: 1;
     font-size: .7vw;
     font-weight: 200;
+  }
+
+  .category-content .container .category-filters .category-choose .category-choose-container {
+    top: 9.48rem;
   }
 }
 
