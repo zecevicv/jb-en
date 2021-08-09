@@ -915,3 +915,9 @@ select {
 .woocommerce-lost-password .jb-account {
   align-items: center;
 }
+
+.woocommerce-lost-password .woocommerce-message, 
+.woocommerce-lost-password .woocommerce-MyAccount-content>p {
+  width: 100%;
+  text-align: inherit;
+}
