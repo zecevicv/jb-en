@@ -772,6 +772,7 @@ select {
   .category-content .container .category-sort {
     position: sticky;
     top: 18.93vw;
+    z-index: 100;
   }
 }
 
