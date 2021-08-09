@@ -634,6 +634,10 @@ ol[checkout-menu] li:last-of-type {
     left: auto;
     right: 0;
   }
+
+  .product-add-to-cart .container .add-to-cart .contact-media {
+    padding: 4rem 0 0 0;
+  }
 }
 
 /* #Favorites
