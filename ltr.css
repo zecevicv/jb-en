@@ -898,6 +898,12 @@ ol[checkout-menu] li:last-of-type {
   flex-direction: row-reverse;
 }
 
+.contact-shops .container .contact-shop .contact-img button img, 
+.contact-shops .container .contact-shop .contact-img a.button-link img {
+  margin-left: .57292rem;
+  margin-right: 0;
+}
+
 /* #Lost Password
 ================================================== */
 .jb-account {
