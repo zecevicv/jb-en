@@ -448,6 +448,10 @@ span.favincart {
   span.favincart {
     top: 2vw;
   }
+
+  #add-to-cart-fixed .container .cart-products-container .cart-product a {
+    padding-right: 2.66vw;
+  }
 }
 
 /* #Cart Page
