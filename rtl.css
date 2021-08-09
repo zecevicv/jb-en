@@ -303,6 +303,12 @@ body.search-panel {
   font-size: .9375rem;
 }
 
+@media (min-width: 1024px) {
+  .home-instagram {
+    padding-top: 5vw;
+  }
+}
+
 @media (max-width: 1023.98px) {
   .home-posts .container {
     margin-right: auto;
