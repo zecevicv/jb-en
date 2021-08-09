@@ -883,6 +883,10 @@ ol[checkout-menu] li:last-of-type {
     border-left: none;
     border-right: 2px solid #e8e8e8;
   }
+
+  .home-brands .container .slider-bottom .swiper-button-prev.swiper-button-prev-brand-bottom {
+    right: 0;
+  }
 }
 
 @media (max-width: 1023.98px) {
