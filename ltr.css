@@ -898,16 +898,6 @@ ol[checkout-menu] li:last-of-type {
   flex-direction: row-reverse;
 }
 
-@media (min-width: 1024px) {
-  .contact-shops {
-    text-align: left;
-  }
-
-  .contact-shops .container .contact-shop {
-    flex-direction: row-reverse;
-  }
-}
-
 /* #Lost Password
 ================================================== */
 .jb-account {
