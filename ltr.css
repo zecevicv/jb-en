@@ -878,6 +878,13 @@ ol[checkout-menu] li:last-of-type {
   flex-direction: row-reverse;
 }
 
+@media (min-width: 1024px) {
+  .home-features .container .home-feature:not(:last-child) {
+    border-left: none;
+    border-right: 2px solid #e8e8e8;
+  }
+}
+
 @media (max-width: 1023.98px) {
   .home-features .container .home-feature img {
     margin-left: 0;
