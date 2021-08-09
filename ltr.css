@@ -884,6 +884,10 @@ ol[checkout-menu] li:last-of-type {
   .repair-types .container > div:nth-of-type(2n) {
     flex-direction: column-reverse;
   }
+
+  .customer-service-header .container {
+    text-align: left;
+  }
 }
 
 /* #Branches
