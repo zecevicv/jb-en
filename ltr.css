@@ -98,6 +98,15 @@
     margin-left: 0;
     margin-right: 3vw;
   }
+
+  .article-header .container .h2 {
+    margin-left: 4.13333rem;
+    margin-right: 0;
+  }
+
+  .article-header .container {
+    text-align: left;
+  }
 }
 
 /* #Magazine Post Page
