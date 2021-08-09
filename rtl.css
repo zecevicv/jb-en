@@ -891,13 +891,21 @@ select {
   .form-row div.validation-error {
     font-size: 4vw;
   }
-
+  
   #add-to-cart-fixed .container .cart-products-container .cart-product {
     margin-right: auto;
     width: 92%;
   }
-
+  
   span.favincart {
     right: 4%;
+  }
+}
+
+/* #404
+================================================== */
+@media (min-width: 1024px) {
+  .page-404 .container {
+    width: 88.38542rem;
   }
 }
