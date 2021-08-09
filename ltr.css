@@ -896,10 +896,6 @@ ol[checkout-menu] li:last-of-type {
     margin-right: 5vw;
     margin-left: 0;
   }
-
-  .home-popular-products .slider-bottom {
-    max-width: 100%;
-  }
 }
 
 @media (max-width: 1023.98px) {
@@ -915,6 +911,10 @@ ol[checkout-menu] li:last-of-type {
   .home-brands .container .slider-bottom {
     margin-left: auto;
     margin-right: 0;
+  }
+
+  .home-popular-products .slider-bottom {
+    max-width: 100%;
   }
 }
 
