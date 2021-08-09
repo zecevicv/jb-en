@@ -888,6 +888,10 @@ ol[checkout-menu] li:last-of-type {
     right: -4%;
   }
 
+  .home-brands .container .slider-bottom .swiper-button-next.swiper-button-next-brand-bottom {
+    left: 35%;
+  }
+
   .home-brands .container .slider-bottom .brandsBottomSlider .brand-banner {
     margin-right: 5vw;
     margin-left: 0;
