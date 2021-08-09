@@ -457,6 +457,11 @@ span.favincart {
     margin-left: 2.02533rem;
     margin-right: 0;
   }
+
+  #add-to-cart-fixed .container .cart-bottom .cart-footer div img {
+    margin-left: 0;
+    margin-right: 3rem;
+  }
 }
 
 /* #Cart Page
