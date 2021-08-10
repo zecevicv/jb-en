@@ -644,7 +644,7 @@ body.search-panel {
   }
 
   .product-add-to-cart .navigation {
-    direction: rtl;
+    text-align: left;
   }
 
   .product-add-to-cart .container .add-to-cart {
