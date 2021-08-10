@@ -625,6 +625,25 @@ ol[checkout-menu] li:last-of-type {
   margin-left: auto;
 }
 
+@media (min-width: 1024px) {
+  .product-add-to-cart {
+    direction: rtl;
+  }
+
+  .product-add-to-cart .navigation {
+    justify-content: flex-end;
+    padding-left: 66.45%;
+  }
+
+  .product-add-to-cart .container .add-to-cart {
+    direction: ltr;
+  }
+
+  .product-features {
+    direction: rtl;
+  }
+}
+
 @media (max-width: 1023.98px) {
   .product-add-to-cart .container {
     flex-direction: column-reverse!important;

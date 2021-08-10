@@ -639,23 +639,6 @@ body.search-panel {
 }
 
 @media (min-width: 1024px) {
-  .product-add-to-cart {
-    direction: rtl;
-  }
-
-  .product-add-to-cart .navigation {
-    justify-content: flex-end;
-    padding-left: 66.45%;
-  }
-
-  .product-add-to-cart .container .add-to-cart {
-    direction: ltr;
-  }
-
-  .product-features {
-    direction: rtl;
-  }
-
   .product-add-to-cart .container .add-to-cart .add-to-cart-btn {
     position: relative;
     overflow: hidden;
