@@ -763,17 +763,6 @@ select {
   .category-header .container .category-header-text .p1 {
     width: 91.86667rem;
   }
-
-  .category-content .container {
-    position: relative;
-  }
-
-  .category-content .container .category-filters,
-  .category-content .container .category-sort {
-    position: sticky;
-    top: 18.93vw;
-    z-index: 10;
-  }
 }
 
 /* #Customer Service
