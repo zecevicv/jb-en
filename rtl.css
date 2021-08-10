@@ -639,6 +639,10 @@ body.search-panel {
 }
 
 @media (min-width: 1024px) {
+  .product-add-to-cart {
+    direction: rtl;
+  }
+
   .product-add-to-cart .container .add-to-cart .add-to-cart-btn {
     position: relative;
     overflow: hidden;
