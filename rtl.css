@@ -644,9 +644,7 @@ body.search-panel {
   }
 
   .product-add-to-cart .navigation {
-    width: 23.90625rem;
-    margin-left: auto;
-    flex: 0 0 100%;
+    justify-content: flex-end;
   }
 
   .product-add-to-cart .container .add-to-cart {
