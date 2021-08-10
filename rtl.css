@@ -643,6 +643,10 @@ body.search-panel {
     direction: rtl;
   }
 
+  .product-add-to-cart .container .add-to-cart {
+    direction: ltr;
+  }
+
   .product-add-to-cart .container .add-to-cart .add-to-cart-btn {
     position: relative;
     overflow: hidden;
