@@ -645,6 +645,7 @@ body.search-panel {
 
   .product-add-to-cart .navigation {
     justify-content: flex-end;
+    padding-left: 70%;
   }
 
   .product-add-to-cart .container .add-to-cart {
