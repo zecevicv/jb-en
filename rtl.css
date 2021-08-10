@@ -647,6 +647,10 @@ body.search-panel {
     direction: ltr;
   }
 
+  .product-features {
+    direction: rtl;
+  }
+
   .product-add-to-cart .container .add-to-cart .add-to-cart-btn {
     position: relative;
     overflow: hidden;
