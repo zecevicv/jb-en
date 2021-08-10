@@ -768,12 +768,12 @@ select {
     position: relative;
   }
 
-  /* .category-content .container .category-filters,
+  .category-content .container .category-filters,
   .category-content .container .category-sort {
     position: sticky;
     top: 18.93vw;
-    z-index: 100;
-  } */
+    z-index: 10;
+  }
 }
 
 /* #Customer Service
