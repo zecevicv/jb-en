@@ -646,6 +646,7 @@ body.search-panel {
   .product-add-to-cart .navigation {
     width: 23.90625rem;
     margin-left: auto;
+    flex: 0 0 100%;
   }
 
   .product-add-to-cart .container .add-to-cart {
