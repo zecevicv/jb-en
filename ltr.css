@@ -1207,6 +1207,10 @@ ol[checkout-menu] li:last-of-type {
   .woocommerce-edit-address .jb-account {
     width: 100%;
   }
+
+  .woocommerce-edit-address .jb-account>img {
+    margin-right: auto;
+  }
 }
 
 @media (max-width: 1023.98px) {
