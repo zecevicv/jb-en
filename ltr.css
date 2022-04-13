@@ -1138,6 +1138,11 @@ ol[checkout-menu] li:last-of-type {
 /* #Reset Password
 ================================================== */
 @media (min-width: 1024px) {
+  #jb-reset-password {
+    margin-left: 0;
+    margin-right: 9.07135rem;
+  }
+
   .reset-password-thank-you-page {
     padding-top: 0;
   }
