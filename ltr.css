@@ -1174,6 +1174,6 @@ ol[checkout-menu] li:last-of-type {
 ================================================== */
 @media (min-width: 1024px) {
   .woocommerce-shop .navigation-container .container {
-    margin-left: 0;
+    margin-left: 2vw;
   }
 } 
