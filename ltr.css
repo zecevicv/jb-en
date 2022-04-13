@@ -1152,3 +1152,11 @@ ol[checkout-menu] li:last-of-type {
     align-items: center;
   }
 }
+
+/* #FAQ
+================================================== */
+@media (max-width: 1023.98px) {
+  .customer-service-header .container .shipping-nav .shipping-nav-item {
+    height: 28.4rem;
+  }
+}
