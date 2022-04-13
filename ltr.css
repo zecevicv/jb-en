@@ -1169,11 +1169,3 @@ ol[checkout-menu] li:last-of-type {
     margin-right: .5vw;
   }
 }
-
-/* #Gift Page
-================================================== */
-@media (min-width: 1024px) {
-  .ltr .product-add-to-cart .container {
-    flex-direction: row-reverse;
-  }
-}
