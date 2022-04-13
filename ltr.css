@@ -1134,3 +1134,15 @@ ol[checkout-menu] li:last-of-type {
     margin-left: 6.98958rem;
   }
 }
+
+/* #Reset Password
+================================================== */
+@media (min-width: 1024px) {
+  .reset-password-thank-you-page {
+    padding-top: 0;
+  }
+
+  .reset-password-thank-you-page #jb-reset-password-container {
+    align-items: center;
+  }
+}
