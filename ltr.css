@@ -1141,6 +1141,7 @@ ol[checkout-menu] li:last-of-type {
   #jb-reset-password {
     margin-left: 0;
     margin-right: 9.07135rem;
+    margin-top: 0;
   }
 
   .reset-password-thank-you-page {
