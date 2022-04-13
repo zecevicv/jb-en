@@ -1190,4 +1190,9 @@ ol[checkout-menu] li:last-of-type {
     margin-left: 18.5%;
     margin-right: 7.6%;
   }
+
+  .personal-order-details .personal-order-details-title>div span:first-of-type {
+    margin-left: 0;
+    margin-right: 0.5rem;
+  }
 }
