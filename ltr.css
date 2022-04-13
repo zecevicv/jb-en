@@ -1182,3 +1182,12 @@ ol[checkout-menu] li:last-of-type {
     margin-right: 1rem;
   }
 } 
+
+/* #Account Details
+================================================== */
+@media (min-width: 1024px) {
+  .personal-update-details .personal-update-details-fields {
+    margin-left: 18.5%;
+    margin-right: 7.6%;
+  }
+}
