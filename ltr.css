@@ -1160,3 +1160,11 @@ ol[checkout-menu] li:last-of-type {
     height: 28.4rem;
   }
 }
+
+/* #Wishlist
+================================================== */
+@media (min-width: 1024px) {
+  #sort-container span {
+    right: 0;
+  }
+}
