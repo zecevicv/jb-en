@@ -1176,4 +1176,9 @@ ol[checkout-menu] li:last-of-type {
   .woocommerce-shop .navigation-container .container {
     margin-left: 3.255vw;
   }
+
+  .slider-product .product-price span {
+    margin-left: 0;
+    margin-right: 1rem;
+  }
 } 
