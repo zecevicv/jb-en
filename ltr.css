@@ -1199,6 +1199,10 @@ ol[checkout-menu] li:last-of-type {
   .personal-order-details .personal-order-product>div img {
     margin: 0.52083rem 1.82292rem 0.52083rem 0;
   }
+
+  .woocommerce-edit-address .jb-account {
+    margin-left: 16.5rem;
+  }
 }
 
 @media (max-width: 1023.98px) {
