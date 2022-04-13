@@ -1165,6 +1165,6 @@ ol[checkout-menu] li:last-of-type {
 ================================================== */
 @media (min-width: 1024px) {
   #sort-container span {
-    right: 0;
+    right: 0!important;
   }
 }
