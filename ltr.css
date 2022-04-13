@@ -1200,3 +1200,9 @@ ol[checkout-menu] li:last-of-type {
     margin: 0.52083rem 1.82292rem 0.52083rem 0;
   }
 }
+
+@media (max-width: 1023.98px) {
+  .personal-order-details .personal-order-product>div img {
+    margin: 4rem 4.06667rem 4rem 0;
+  }
+}
