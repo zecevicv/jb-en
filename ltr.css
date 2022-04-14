@@ -242,6 +242,7 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
 
   .main-menu>li.has_children>a {
     background-position: 90% center;
+    background-image: url("data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Cpath d='M30.83 32.67l-9.17-9.17 9.17-9.17-2.83-2.83-12 12 12 12z'/%3E%3Cpath d='M0-.5h48v48h-48z' fill='none'/%3E%3C/svg%3E%0A transform='rotate(180deg)'");
   }
 }
 
