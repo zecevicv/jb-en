@@ -508,6 +508,10 @@ ol[checkout-menu] li:last-of-type {
   left: 0;
 }
 
+#add-to-cart-fixed.not-fixed > .container .cart-products-container > div.cart-product:first-of-type {
+  direction: ltr;
+}
+
 /* #Shop
 ================================================== */
 .category-header .container .category-header-text {
