@@ -243,6 +243,13 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
   .main-menu>li.has_children>a {
     background-position: 90% center;
   }
+
+  .main-menu>li li.sub-menu-title::after {
+    transform: rotate(180deg);
+    right: auto;
+    left: 3rem;
+    background-size: 100%;
+  }
 }
 
 /* #Search (Part Of The Header)
