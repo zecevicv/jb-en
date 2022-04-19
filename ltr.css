@@ -507,6 +507,13 @@ span.favincart {
   margin-right: 0;
 }
 
+#add-to-cart-fixed.not-fixed>.container .cart-bottom .coupon_container #check_coupon {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5.552' height='10.528' viewBox='0 0 5.552 10.528'%3E%3Cg id='next' transform='translate(5.274 10.25) rotate(180)'%3E%3Cg id='Group_6' data-name='Group 6'%3E%3Cpath id='Path_5' data-name='Path 5' d='M132.945,4.856,128.361.064a.208.208,0,1,0-.3.288L132.506,5,128.06,9.648a.208.208,0,0,0,.3.288l4.583-4.792A.209.209,0,0,0,132.945,4.856Z' transform='translate(-128.003 0) rotate(180deg)' stroke='%23000' stroke-width='0.5'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E%0A");
+  background-position: 4.6rem;
+  padding-left: 0;
+  padding-right: 0.7rem;
+}
+
 @media (max-width: 1023.98px) {
   #add-to-cart-fixed .container .cart-products-container .cart-product {
     margin: 0 auto;
