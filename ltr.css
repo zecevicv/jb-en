@@ -1,6 +1,7 @@
 /* #Global
 ================================================== */
-.link img {
+.link img,
+.slider-bottom-link a.slider-bottom-link-style img {
   margin-right: 0;
   margin-left: .5vw;
   transform: rotate(180deg)!important;
@@ -41,7 +42,8 @@
 }
 
 @media (max-width: 1023.98px) {
-  .link img {
+  .link img,
+  .slider-bottom-link a.slider-bottom-link-style img {
     height: 2.9vw;
     margin-left: 2vw;
   }
