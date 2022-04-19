@@ -517,6 +517,10 @@ span.favincart {
   direction: ltr;
 }
 
+a.popup-link-add-to-cart img {
+  transform: rotate(180deg) translateX(0);
+}
+
 @media (max-width: 1023.98px) {
   #add-to-cart-fixed .container .cart-products-container .cart-product {
     margin: 0 auto;
