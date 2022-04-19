@@ -513,6 +513,10 @@ span.favincart {
   padding-right: 0.7rem;
 }
 
+#add-to-cart-fixed .container #cart-products-main-container .cart-product {
+  direction: ltr;
+}
+
 @media (max-width: 1023.98px) {
   #add-to-cart-fixed .container .cart-products-container .cart-product {
     margin: 0 auto;
