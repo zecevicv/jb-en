@@ -3,16 +3,16 @@
 .link img {
   margin-right: 0;
   margin-left: .5vw;
-  transform: rotate(180deg);
+  transform: rotate(180deg)!important;
 }
 
 .link:hover img {
-  -webkit-transform: translateX(0.35vw) rotate(180deg);
-  transform: translateX(0.35vw) rotate(180deg);
+  -webkit-transform: translateX(0.35vw) rotate(180deg)!important;
+  transform: translateX(0.35vw) rotate(180deg)!important;
 }
 
 .underline-anim::after {
-  transform: translateX(-102%);
+  transform: translateX(-102%)!important;
 }
 
 .jb-black-btn span {
@@ -47,8 +47,8 @@
   }
 
   .link:hover img {
-    -webkit-transform: translateX(0) rotate(180deg);
-    transform: translateX(0) rotate(180deg);
+    -webkit-transform: translateX(0) rotate(180deg)!important;
+    transform: translateX(0) rotate(180deg)!important;
   }
 
   .jb-black-btn span {
@@ -248,7 +248,6 @@ li.has_children.opend .sub-menu-title, li.has_children.opend .sub-menu {
     transform: rotate(0);
     right: auto;
     left: 3rem;
-    background-size: 100%;
   }
 }
 
