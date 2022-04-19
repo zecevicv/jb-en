@@ -508,7 +508,6 @@ span.favincart {
 }
 
 #add-to-cart-fixed.not-fixed>.container .cart-bottom .coupon_container #check_coupon {
-  
   background-position: 4.6rem;
   padding-left: 0;
   padding-right: 0.7rem;
@@ -517,6 +516,10 @@ span.favincart {
 @media (max-width: 1023.98px) {
   #add-to-cart-fixed .container .cart-products-container .cart-product {
     margin: 0 auto;
+  }
+
+  #add-to-cart-fixed.not-fixed>.container .cart-bottom .coupon_container #check_coupon {
+    background-position: 21.7rem;
   }
 }
 
